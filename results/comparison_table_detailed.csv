@@ -1,0 +1,6 @@
+Model,Accuracy,Precision_Fail,Recall_Fail,F1_Fail,Precision_Pass,Recall_Pass,F1_Pass
+Logistic_Regression,0.671,0.196,0.67,0.304,0.945,0.672,0.785
+Decision_Tree,0.651,0.192,0.705,0.302,0.948,0.644,0.767
+Random_Forest,0.808,0.214,0.296,0.248,0.912,0.87,0.89
+KNN,0.876,0.232,0.069,0.106,0.897,0.973,0.933
+SVM,0.664,0.181,0.609,0.279,0.935,0.67,0.781
