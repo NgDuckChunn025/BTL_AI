@@ -1,6 +1,7 @@
-Model,Accuracy,Precision_Truot,Recall_Truot,F1_Truot,Precision_Do,Recall_Do,F1_Do
-Logistic_Regression,0.84,0.744,0.829,0.784,0.902,0.846,0.873
-Decision_Tree,0.777,0.664,0.733,0.697,0.848,0.8,0.823
-Random_Forest,0.843,0.774,0.781,0.777,0.881,0.877,0.879
-KNN,0.83,0.8,0.686,0.738,0.843,0.908,0.874
-SVM,0.847,0.752,0.838,0.793,0.907,0.851,0.878
+Model,Accuracy,Precision_Do,Recall_Do,F1_Do,Precision_Truot,Recall_Truot,F1_Truot
+Dummy_Baseline,0.65,0.65,1.0,0.788,0.0,0.0,0.0
+Logistic_Regression,0.84,0.902,0.846,0.873,0.744,0.829,0.784
+Decision_Tree,0.777,0.848,0.8,0.823,0.664,0.733,0.697
+Random_Forest,0.847,0.882,0.882,0.882,0.781,0.781,0.781
+KNN,0.823,0.835,0.908,0.87,0.795,0.667,0.725
+SVM,0.847,0.907,0.851,0.878,0.752,0.838,0.793

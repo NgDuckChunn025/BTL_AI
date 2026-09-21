@@ -1,0 +1,7 @@
+Model,Accuracy,F1_Do,Accuracy_mean,Accuracy_std,F1_mean,F1_std
+Dummy_Baseline,0.65,0.788,0.65,0.0,0.788,0.0
+Logistic_Regression,0.84,0.873,0.833,0.017,0.867,0.013
+Decision_Tree,0.777,0.823,0.785,0.02,0.822,0.017
+Random_Forest,0.847,0.882,0.817,0.028,0.856,0.022
+KNN,0.823,0.87,0.759,0.025,0.821,0.019
+SVM,0.847,0.878,0.832,0.021,0.866,0.015
