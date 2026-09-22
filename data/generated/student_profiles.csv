@@ -1,0 +1,1501 @@
+﻿MSSV,HoTen,Khoa,KhoaHoc,GPA_TichLuy,TinChiTichLuy,XepLoai
+SV20210001,Hoàng Vy Vy,Kỹ thuật dữ liệu,K64,1.7,69,Cần cải thiện
+SV20210002,Phạm Chi Ngọc,Kinh tế số,K65,3.0,74,Khá tích cực
+SV20210003,Lê Lan My,Kinh tế số,K66,2.4,71,Cần cải thiện
+SV20210004,Đỗ Chi Hà,Kỹ thuật dữ liệu,K64,2.3,56,Cần cải thiện
+SV20210005,Nguyễn Hải Chi,Công nghệ thông tin,K65,1.7,46,Cần cải thiện
+SV20210006,Vũ Giang Giang,Kinh tế số,K66,2.9,76,Khá tích cực
+SV20210007,Bùi An Chi,Kỹ thuật dữ liệu,K64,2.9,88,Khá tích cực
+SV20210008,Đỗ Quân Khánh,Công nghệ thông tin,K65,3.0,117,Khá tích cực
+SV20210009,Trần Lan Bình,Kỹ thuật dữ liệu,K66,2.2,79,Cần cải thiện
+SV20210010,Vũ Quân Hương,Kỹ thuật dữ liệu,K64,3.2,107,Khá
+SV20210011,Nguyễn Giang Khánh,Công nghệ thông tin,K65,2.2,55,Cần cải thiện
+SV20210012,Hoàng My Giang,Công nghệ thông tin,K66,2.6,65,Khá tích cực
+SV20210013,Đặng Bình Hương,Kinh tế số,K64,2.5,77,Khá tích cực
+SV20210014,Trần Vy Hân,Công nghệ thông tin,K65,2.7,84,Khá tích cực
+SV20210015,Hoàng Phúc Vy,Kỹ thuật dữ liệu,K66,2.8,68,Khá tích cực
+SV20210016,Bùi Trang Lan,Kinh tế số,K64,2.9,88,Khá tích cực
+SV20210017,Nguyễn My Ngọc,Công nghệ thông tin,K65,2.8,87,Khá tích cực
+SV20210018,Đỗ Trang An,Kinh tế số,K66,3.3,104,Khá
+SV20210019,Phạm Khánh Chi,Công nghệ thông tin,K64,2.9,86,Khá tích cực
+SV20210020,Phạm Hà Hà,Kinh tế số,K65,2.7,94,Khá tích cực
+SV20210021,Hồ Hương Hân,Công nghệ thông tin,K66,2.3,49,Cần cải thiện
+SV20210022,Bùi My Phúc,Công nghệ thông tin,K64,2.5,91,Khá tích cực
+SV20210023,Phạm Trang Khánh,Công nghệ thông tin,K65,2.8,80,Khá tích cực
+SV20210024,Hồ Chi Khánh,Công nghệ thông tin,K66,2.9,79,Khá tích cực
+SV20210025,Hồ Long Chi,Công nghệ thông tin,K64,2.5,91,Khá tích cực
+SV20210026,Hoàng Hân Khánh,Công nghệ thông tin,K65,2.6,96,Khá tích cực
+SV20210027,Hồ Giang Khánh,Kỹ thuật dữ liệu,K66,2.4,71,Cần cải thiện
+SV20210028,Phạm Giang Hương,Kinh tế số,K64,2.9,74,Khá tích cực
+SV20210029,Trần Khánh Ngọc,Kinh tế số,K65,1.9,33,Cần cải thiện
+SV20210030,Bùi Khánh Nam,Công nghệ thông tin,K66,3.1,100,Khá tích cực
+SV20210031,Đặng Giang Ngọc,Kinh tế số,K64,2.9,79,Khá tích cực
+SV20210032,Bùi Vy Giang,Kinh tế số,K65,3.2,101,Khá
+SV20210033,Hồ Bình Hà,Kinh tế số,K66,2.8,92,Khá tích cực
+SV20210034,Lê Dũng Hương,Kinh tế số,K64,2.8,80,Khá tích cực
+SV20210035,Vũ Khánh Ngọc,Công nghệ thông tin,K65,2.6,59,Khá tích cực
+SV20210036,Nguyễn Long Hải,Công nghệ thông tin,K66,2.9,85,Khá tích cực
+SV20210037,Nguyễn Minh Hân,Công nghệ thông tin,K64,2.8,79,Khá tích cực
+SV20210038,Vũ Linh Long,Kinh tế số,K65,3.0,82,Khá tích cực
+SV20210039,Đỗ My Hải,Công nghệ thông tin,K66,2.6,80,Khá tích cực
+SV20210040,Phạm Ngọc Nam,Công nghệ thông tin,K64,3.4,91,Khá
+SV20210041,Đặng Phúc Chi,Kỹ thuật dữ liệu,K65,2.9,101,Khá tích cực
+SV20210042,Hoàng Long Dũng,Công nghệ thông tin,K66,2.0,40,Cần cải thiện
+SV20210043,Lê Bình Nam,Kinh tế số,K64,2.5,73,Khá tích cực
+SV20210044,Đỗ Dũng My,Kỹ thuật dữ liệu,K65,2.2,72,Cần cải thiện
+SV20210045,Hoàng Linh My,Kỹ thuật dữ liệu,K66,3.2,121,Khá
+SV20210046,Hồ Quân An,Công nghệ thông tin,K64,3.1,114,Khá tích cực
+SV20210047,Phạm An Linh,Kinh tế số,K65,2.7,59,Khá tích cực
+SV20210048,Hồ Minh Nam,Công nghệ thông tin,K66,2.5,105,Khá tích cực
+SV20210049,Hoàng My Hải,Kinh tế số,K64,2.1,72,Cần cải thiện
+SV20210050,Hoàng Ngọc Dũng,Công nghệ thông tin,K65,2.4,84,Cần cải thiện
+SV20210051,Bùi Quân Bình,Kinh tế số,K66,2.5,83,Khá tích cực
+SV20210052,Hồ Hương Phúc,Công nghệ thông tin,K64,3.0,129,Khá tích cực
+SV20210053,Đỗ Trang Quân,Công nghệ thông tin,K65,3.4,122,Khá
+SV20210054,Trần Nam Minh,Kinh tế số,K66,1.8,52,Cần cải thiện
+SV20210055,Đặng Hân Hương,Kinh tế số,K64,3.5,129,Khá
+SV20210056,Phạm Long Long,Công nghệ thông tin,K65,3.2,88,Khá
+SV20210057,Hoàng Lan Nam,Kỹ thuật dữ liệu,K66,3.0,59,Khá tích cực
+SV20210058,Nguyễn An Bình,Kinh tế số,K64,2.7,55,Khá tích cực
+SV20210059,Lê Dũng My,Công nghệ thông tin,K65,1.8,70,Cần cải thiện
+SV20210060,Bùi Hải Vy,Công nghệ thông tin,K66,3.3,95,Khá
+SV20210061,Nguyễn Hải Linh,Công nghệ thông tin,K64,2.3,80,Cần cải thiện
+SV20210062,Đặng Hương Trang,Kỹ thuật dữ liệu,K65,3.2,83,Khá
+SV20210063,Phạm An Giang,Công nghệ thông tin,K66,3.3,117,Khá
+SV20210064,Hồ Long My,Công nghệ thông tin,K64,2.6,67,Khá tích cực
+SV20210065,Trần Quân Hân,Công nghệ thông tin,K65,2.7,97,Khá tích cực
+SV20210066,Đặng Dũng Trang,Công nghệ thông tin,K66,1.7,42,Cần cải thiện
+SV20210067,Trần Dũng Linh,Công nghệ thông tin,K64,2.4,66,Cần cải thiện
+SV20210068,Vũ Dũng Vy,Công nghệ thông tin,K65,2.4,70,Cần cải thiện
+SV20210069,Đỗ Vy My,Kỹ thuật dữ liệu,K66,2.5,58,Khá tích cực
+SV20210070,Nguyễn Nam Hương,Công nghệ thông tin,K64,3.3,88,Khá
+SV20210071,Vũ Quân My,Kinh tế số,K65,2.9,53,Khá tích cực
+SV20210072,Đặng Hân Phúc,Công nghệ thông tin,K66,2.7,65,Khá tích cực
+SV20210073,Đỗ Hân Hân,Công nghệ thông tin,K64,2.1,72,Cần cải thiện
+SV20210074,Nguyễn Ngọc Dũng,Kinh tế số,K65,2.2,52,Cần cải thiện
+SV20210075,Đặng An Lan,Công nghệ thông tin,K66,1.9,60,Cần cải thiện
+SV20210076,Vũ Linh Hân,Công nghệ thông tin,K64,3.3,86,Khá
+SV20210077,Trần An Dũng,Kinh tế số,K65,3.7,117,Xuất sắc
+SV20210078,Lê Khánh Giang,Công nghệ thông tin,K66,2.4,77,Cần cải thiện
+SV20210079,Lê Linh Nam,Kinh tế số,K64,1.9,51,Cần cải thiện
+SV20210080,Lê Nam Hân,Công nghệ thông tin,K65,2.6,59,Khá tích cực
+SV20210081,Lê Dũng Nam,Kỹ thuật dữ liệu,K66,3.2,74,Khá
+SV20210082,Đỗ My Ngọc,Công nghệ thông tin,K64,2.7,63,Khá tích cực
+SV20210083,Đặng Giang Hải,Công nghệ thông tin,K65,2.6,85,Khá tích cực
+SV20210084,Vũ Khánh Hân,Công nghệ thông tin,K66,3.1,111,Khá tích cực
+SV20210085,Đặng Long Vy,Công nghệ thông tin,K64,1.7,44,Cần cải thiện
+SV20210086,Trần Chi Khánh,Công nghệ thông tin,K65,2.3,68,Cần cải thiện
+SV20210087,Vũ Hải Hải,Kỹ thuật dữ liệu,K66,2.6,69,Khá tích cực
+SV20210088,Lê Nam Lan,Kinh tế số,K64,2.9,86,Khá tích cực
+SV20210089,Phạm Hải Phúc,Kinh tế số,K65,1.9,55,Cần cải thiện
+SV20210090,Đặng Minh Hương,Kinh tế số,K66,2.7,71,Khá tích cực
+SV20210091,Hồ Ngọc Chi,Kỹ thuật dữ liệu,K64,3.6,106,Xuất sắc
+SV20210092,Vũ Hương Hải,Công nghệ thông tin,K65,2.4,90,Cần cải thiện
+SV20210093,Lê Long Hải,Kinh tế số,K66,2.0,78,Cần cải thiện
+SV20210094,Lê Phúc Hải,Công nghệ thông tin,K64,3.1,117,Khá tích cực
+SV20210095,Vũ Hải Long,Công nghệ thông tin,K65,3.3,80,Khá
+SV20210096,Bùi Lan Hân,Công nghệ thông tin,K66,2.5,80,Khá tích cực
+SV20210097,Hoàng Hải Bình,Công nghệ thông tin,K64,2.5,53,Khá tích cực
+SV20210098,Phạm Hà Hải,Kinh tế số,K65,2.4,86,Cần cải thiện
+SV20210099,Bùi Lan Ngọc,Kinh tế số,K66,1.7,50,Cần cải thiện
+SV20210100,Hồ Khánh Bình,Kinh tế số,K64,3.3,85,Khá
+SV20210101,Phạm Ngọc Nam,Công nghệ thông tin,K65,2.7,74,Khá tích cực
+SV20210102,Lê Long Khánh,Công nghệ thông tin,K66,2.5,72,Khá tích cực
+SV20210103,Nguyễn Hải Hương,Công nghệ thông tin,K64,2.7,109,Khá tích cực
+SV20210104,Hồ Phúc My,Công nghệ thông tin,K65,2.5,66,Khá tích cực
+SV20210105,Đặng Phúc Hương,Kinh tế số,K66,2.8,58,Khá tích cực
+SV20210106,Lê Trang Hải,Công nghệ thông tin,K64,2.7,53,Khá tích cực
+SV20210107,Trần Lan Vy,Công nghệ thông tin,K65,2.8,89,Khá tích cực
+SV20210108,Đặng Phúc Bình,Kinh tế số,K66,3.8,132,Xuất sắc
+SV20210109,Đỗ Trang An,Công nghệ thông tin,K64,2.1,36,Cần cải thiện
+SV20210110,Hoàng Trang Dũng,Công nghệ thông tin,K65,2.8,76,Khá tích cực
+SV20210111,Hoàng Chi Phúc,Công nghệ thông tin,K66,2.5,46,Khá tích cực
+SV20210112,Đặng Linh Hà,Công nghệ thông tin,K64,3.8,90,Xuất sắc
+SV20210113,Trần My Hà,Kỹ thuật dữ liệu,K65,3.0,75,Khá tích cực
+SV20210114,Đỗ Ngọc Minh,Kỹ thuật dữ liệu,K66,2.6,71,Khá tích cực
+SV20210115,Phạm Trang Hương,Kinh tế số,K64,1.9,35,Cần cải thiện
+SV20210116,Hoàng Hải Lan,Công nghệ thông tin,K65,2.9,70,Khá tích cực
+SV20210117,Hoàng Hải Giang,Kỹ thuật dữ liệu,K66,3.3,95,Khá
+SV20210118,Bùi Nam Hân,Công nghệ thông tin,K64,2.1,64,Cần cải thiện
+SV20210119,Bùi Hương Phúc,Công nghệ thông tin,K65,2.2,99,Cần cải thiện
+SV20210120,Phạm Long Chi,Công nghệ thông tin,K66,2.9,108,Khá tích cực
+SV20210121,Lê Dũng Hải,Kỹ thuật dữ liệu,K64,3.7,124,Xuất sắc
+SV20210122,Hồ Linh Chi,Kinh tế số,K65,2.5,47,Khá tích cực
+SV20210123,Vũ Hân Nam,Kinh tế số,K66,3.2,96,Khá
+SV20210124,Lê Ngọc Giang,Công nghệ thông tin,K64,2.9,84,Khá tích cực
+SV20210125,Vũ An Dũng,Kinh tế số,K65,2.2,45,Cần cải thiện
+SV20210126,Đặng Hải Quân,Công nghệ thông tin,K66,1.8,59,Cần cải thiện
+SV20210127,Hoàng Hà Bình,Công nghệ thông tin,K64,1.7,49,Cần cải thiện
+SV20210128,Bùi Giang Hà,Công nghệ thông tin,K65,3.0,80,Khá tích cực
+SV20210129,Hoàng Ngọc Nam,Công nghệ thông tin,K66,3.3,122,Khá
+SV20210130,Phạm An Hân,Công nghệ thông tin,K64,3.2,105,Khá
+SV20210131,Bùi Hân Minh,Kỹ thuật dữ liệu,K65,2.2,34,Cần cải thiện
+SV20210132,Hồ Chi Khánh,Công nghệ thông tin,K66,2.4,56,Cần cải thiện
+SV20210133,Đỗ Giang Trang,Công nghệ thông tin,K64,3.3,116,Khá
+SV20210134,Bùi Ngọc Chi,Công nghệ thông tin,K65,2.4,66,Cần cải thiện
+SV20210135,Trần Long Phúc,Kinh tế số,K66,2.3,88,Cần cải thiện
+SV20210136,Đỗ Hân Nam,Kinh tế số,K64,2.8,88,Khá tích cực
+SV20210137,Phạm Dũng Hải,Kinh tế số,K65,2.1,75,Cần cải thiện
+SV20210138,Hoàng Dũng Dũng,Công nghệ thông tin,K66,3.6,128,Xuất sắc
+SV20210139,Bùi Minh Phúc,Kinh tế số,K64,2.4,73,Cần cải thiện
+SV20210140,Đặng Phúc Trang,Kỹ thuật dữ liệu,K65,2.5,58,Khá tích cực
+SV20210141,Lê An Hương,Kỹ thuật dữ liệu,K66,3.0,90,Khá tích cực
+SV20210142,Nguyễn Chi Bình,Công nghệ thông tin,K64,1.9,43,Cần cải thiện
+SV20210143,Hồ Bình Linh,Kỹ thuật dữ liệu,K65,2.2,31,Cần cải thiện
+SV20210144,Đặng Quân Chi,Kinh tế số,K66,3.4,93,Khá
+SV20210145,Trần Long Hà,Kinh tế số,K64,3.6,89,Xuất sắc
+SV20210146,Nguyễn Hương Ngọc,Kinh tế số,K65,2.5,75,Khá tích cực
+SV20210147,Vũ Dũng Hải,Kỹ thuật dữ liệu,K66,2.4,45,Cần cải thiện
+SV20210148,Lê Phúc Vy,Công nghệ thông tin,K64,2.0,47,Cần cải thiện
+SV20210149,Vũ Phúc An,Công nghệ thông tin,K65,2.8,109,Khá tích cực
+SV20210150,Đỗ Phúc Bình,Kỹ thuật dữ liệu,K66,3.1,109,Khá tích cực
+SV20210151,Bùi Hà Hân,Kỹ thuật dữ liệu,K64,3.0,95,Khá tích cực
+SV20210152,Hồ Quân Quân,Kinh tế số,K65,3.0,80,Khá tích cực
+SV20210153,Đặng Phúc Quân,Công nghệ thông tin,K66,2.2,46,Cần cải thiện
+SV20210154,Trần Hà Giang,Công nghệ thông tin,K64,3.3,80,Khá
+SV20210155,Đỗ Phúc Trang,Kinh tế số,K65,2.9,84,Khá tích cực
+SV20210156,Hồ Bình Linh,Công nghệ thông tin,K66,2.1,62,Cần cải thiện
+SV20210157,Hoàng An My,Công nghệ thông tin,K64,2.4,62,Cần cải thiện
+SV20210158,Bùi Hải My,Kỹ thuật dữ liệu,K65,2.6,71,Khá tích cực
+SV20210159,Đỗ Giang Phúc,Công nghệ thông tin,K66,1.9,28,Cần cải thiện
+SV20210160,Vũ Bình Hải,Kinh tế số,K64,2.3,51,Cần cải thiện
+SV20210161,Vũ Vy Quân,Kinh tế số,K65,3.3,97,Khá
+SV20210162,Lê Ngọc Dũng,Công nghệ thông tin,K66,3.1,102,Khá tích cực
+SV20210163,Đỗ Linh Quân,Kỹ thuật dữ liệu,K64,2.4,35,Cần cải thiện
+SV20210164,Bùi Lan Linh,Kinh tế số,K65,2.7,79,Khá tích cực
+SV20210165,Đỗ Ngọc Chi,Kinh tế số,K66,2.5,85,Khá tích cực
+SV20210166,Hồ Phúc Trang,Công nghệ thông tin,K64,2.7,102,Khá tích cực
+SV20210167,Đỗ Hân Quân,Công nghệ thông tin,K65,2.8,78,Khá tích cực
+SV20210168,Bùi Khánh Chi,Công nghệ thông tin,K66,2.7,86,Khá tích cực
+SV20210169,Hồ Khánh An,Công nghệ thông tin,K64,2.2,83,Cần cải thiện
+SV20210170,Lê Quân Hân,Kinh tế số,K65,2.0,75,Cần cải thiện
+SV20210171,Phạm Bình Giang,Công nghệ thông tin,K66,3.3,66,Khá
+SV20210172,Hồ Phúc Lan,Công nghệ thông tin,K64,1.8,36,Cần cải thiện
+SV20210173,Bùi Dũng Lan,Công nghệ thông tin,K65,2.8,95,Khá tích cực
+SV20210174,Vũ My Lan,Công nghệ thông tin,K66,2.5,51,Khá tích cực
+SV20210175,Bùi Long Dũng,Kinh tế số,K64,3.7,132,Xuất sắc
+SV20210176,Lê Lan Hà,Kinh tế số,K65,2.4,56,Cần cải thiện
+SV20210177,Hồ An Hân,Công nghệ thông tin,K66,2.9,55,Khá tích cực
+SV20210178,Đỗ My Long,Công nghệ thông tin,K64,1.4,28,Cần cải thiện
+SV20210179,Trần Vy Phúc,Kỹ thuật dữ liệu,K65,2.1,51,Cần cải thiện
+SV20210180,Trần Quân Chi,Công nghệ thông tin,K66,2.2,60,Cần cải thiện
+SV20210181,Lê Nam Giang,Kinh tế số,K64,2.6,69,Khá tích cực
+SV20210182,Hoàng Hân Chi,Kinh tế số,K65,2.7,80,Khá tích cực
+SV20210183,Trần Quân Vy,Công nghệ thông tin,K66,4.0,132,Xuất sắc
+SV20210184,Đỗ My Dũng,Kinh tế số,K64,2.7,95,Khá tích cực
+SV20210185,Nguyễn Dũng My,Công nghệ thông tin,K65,2.5,33,Khá tích cực
+SV20210186,Lê My Long,Kinh tế số,K66,2.9,122,Khá tích cực
+SV20210187,Bùi Hải My,Công nghệ thông tin,K64,2.8,90,Khá tích cực
+SV20210188,Bùi Minh Minh,Công nghệ thông tin,K65,1.8,58,Cần cải thiện
+SV20210189,Nguyễn Hân Chi,Công nghệ thông tin,K66,1.5,50,Cần cải thiện
+SV20210190,Đặng Nam Dũng,Công nghệ thông tin,K64,3.3,109,Khá
+SV20210191,Lê Khánh Chi,Kỹ thuật dữ liệu,K65,2.4,81,Cần cải thiện
+SV20210192,Hoàng Giang An,Kinh tế số,K66,3.3,74,Khá
+SV20210193,Nguyễn Bình Hân,Kinh tế số,K64,2.3,57,Cần cải thiện
+SV20210194,Phạm Hải Khánh,Kỹ thuật dữ liệu,K65,2.8,101,Khá tích cực
+SV20210195,Phạm Ngọc Giang,Công nghệ thông tin,K66,2.9,68,Khá tích cực
+SV20210196,Bùi Hà Nam,Kỹ thuật dữ liệu,K64,2.2,57,Cần cải thiện
+SV20210197,Hoàng Ngọc Hương,Công nghệ thông tin,K65,2.7,82,Khá tích cực
+SV20210198,Vũ Nam My,Kinh tế số,K66,2.4,54,Cần cải thiện
+SV20210199,Vũ Chi Nam,Công nghệ thông tin,K64,2.0,28,Cần cải thiện
+SV20210200,Phạm Khánh Hương,Kỹ thuật dữ liệu,K65,3.3,103,Khá
+SV20210201,Đặng Long Bình,Kỹ thuật dữ liệu,K66,3.3,103,Khá
+SV20210202,Vũ An Chi,Kinh tế số,K64,3.1,110,Khá tích cực
+SV20210203,Nguyễn Dũng Vy,Kỹ thuật dữ liệu,K65,2.3,63,Cần cải thiện
+SV20210204,Vũ My Ngọc,Công nghệ thông tin,K66,2.9,88,Khá tích cực
+SV20210205,Đặng Linh An,Kỹ thuật dữ liệu,K64,1.7,35,Cần cải thiện
+SV20210206,Hồ Hân Trang,Kinh tế số,K65,2.9,69,Khá tích cực
+SV20210207,Hoàng Linh Trang,Công nghệ thông tin,K66,2.1,86,Cần cải thiện
+SV20210208,Đỗ Chi Linh,Công nghệ thông tin,K64,2.9,75,Khá tích cực
+SV20210209,Lê Quân Quân,Công nghệ thông tin,K65,2.8,52,Khá tích cực
+SV20210210,Trần Chi Khánh,Công nghệ thông tin,K66,3.0,94,Khá tích cực
+SV20210211,Lê Linh Nam,Kỹ thuật dữ liệu,K64,3.5,96,Khá
+SV20210212,Phạm Vy Lan,Công nghệ thông tin,K65,2.3,28,Cần cải thiện
+SV20210213,Phạm Long Minh,Công nghệ thông tin,K66,3.1,105,Khá tích cực
+SV20210214,Trần Phúc Hương,Kỹ thuật dữ liệu,K64,2.5,72,Khá tích cực
+SV20210215,Đỗ Lan Nam,Công nghệ thông tin,K65,2.5,65,Khá tích cực
+SV20210216,Lê Minh Trang,Công nghệ thông tin,K66,2.6,70,Khá tích cực
+SV20210217,Phạm Bình Dũng,Công nghệ thông tin,K64,2.6,59,Khá tích cực
+SV20210218,Trần Khánh Hương,Công nghệ thông tin,K65,2.9,84,Khá tích cực
+SV20210219,Vũ Linh Hà,Kinh tế số,K66,2.7,51,Khá tích cực
+SV20210220,Đặng Bình Linh,Công nghệ thông tin,K64,2.6,75,Khá tích cực
+SV20210221,Vũ Khánh Hân,Kỹ thuật dữ liệu,K65,3.4,86,Khá
+SV20210222,Nguyễn Hải Trang,Công nghệ thông tin,K66,3.1,87,Khá tích cực
+SV20210223,Trần Minh Chi,Công nghệ thông tin,K64,2.9,77,Khá tích cực
+SV20210224,Đặng An Giang,Công nghệ thông tin,K65,1.9,72,Cần cải thiện
+SV20210225,Đặng Trang Hà,Công nghệ thông tin,K66,1.9,58,Cần cải thiện
+SV20210226,Vũ Nam Chi,Kỹ thuật dữ liệu,K64,3.2,91,Khá
+SV20210227,Bùi Khánh Quân,Công nghệ thông tin,K65,2.1,49,Cần cải thiện
+SV20210228,Nguyễn Trang Long,Kinh tế số,K66,3.2,101,Khá
+SV20210229,Đặng Lan Hân,Công nghệ thông tin,K64,3.2,120,Khá
+SV20210230,Lê Hải Nam,Công nghệ thông tin,K65,2.4,83,Cần cải thiện
+SV20210231,Vũ My Minh,Công nghệ thông tin,K66,2.4,67,Cần cải thiện
+SV20210232,Trần An My,Công nghệ thông tin,K64,2.0,51,Cần cải thiện
+SV20210233,Trần Hà Minh,Kinh tế số,K65,3.2,122,Khá
+SV20210234,Phạm Hà Hương,Công nghệ thông tin,K66,3.0,106,Khá tích cực
+SV20210235,Lê Hải Hà,Kinh tế số,K64,2.8,64,Khá tích cực
+SV20210236,Trần Dũng Linh,Công nghệ thông tin,K65,2.4,67,Cần cải thiện
+SV20210237,Hoàng Trang Khánh,Công nghệ thông tin,K66,2.1,83,Cần cải thiện
+SV20210238,Hoàng Hà Trang,Công nghệ thông tin,K64,2.5,74,Khá tích cực
+SV20210239,Phạm Chi Dũng,Công nghệ thông tin,K65,2.3,57,Cần cải thiện
+SV20210240,Đỗ My Quân,Kinh tế số,K66,3.3,100,Khá
+SV20210241,Hồ My Hà,Kinh tế số,K64,2.0,82,Cần cải thiện
+SV20210242,Lê Giang Linh,Kỹ thuật dữ liệu,K65,2.5,85,Khá tích cực
+SV20210243,Bùi Long Lan,Kinh tế số,K66,3.4,99,Khá
+SV20210244,Phạm Hải Dũng,Công nghệ thông tin,K64,2.9,70,Khá tích cực
+SV20210245,Vũ Hải Quân,Công nghệ thông tin,K65,3.7,132,Xuất sắc
+SV20210246,Phạm Minh Minh,Công nghệ thông tin,K66,2.7,43,Khá tích cực
+SV20210247,Đỗ Quân Quân,Công nghệ thông tin,K64,2.7,70,Khá tích cực
+SV20210248,Lê Khánh Phúc,Công nghệ thông tin,K65,2.3,65,Cần cải thiện
+SV20210249,Nguyễn An Bình,Kỹ thuật dữ liệu,K66,2.6,70,Khá tích cực
+SV20210250,Vũ Ngọc Phúc,Kinh tế số,K64,2.2,48,Cần cải thiện
+SV20210251,Lê Ngọc Linh,Công nghệ thông tin,K65,2.5,51,Khá tích cực
+SV20210252,Đỗ Lan Quân,Công nghệ thông tin,K66,2.9,74,Khá tích cực
+SV20210253,Bùi Hà Long,Công nghệ thông tin,K64,2.5,70,Khá tích cực
+SV20210254,Nguyễn Vy Quân,Công nghệ thông tin,K65,3.2,87,Khá
+SV20210255,Hoàng Hân My,Kinh tế số,K66,2.9,74,Khá tích cực
+SV20210256,Bùi Bình Hân,Công nghệ thông tin,K64,1.9,57,Cần cải thiện
+SV20210257,Vũ Hà Trang,Công nghệ thông tin,K65,2.3,90,Cần cải thiện
+SV20210258,Phạm Vy Minh,Công nghệ thông tin,K66,2.5,52,Khá tích cực
+SV20210259,Trần Ngọc Nam,Công nghệ thông tin,K64,1.9,62,Cần cải thiện
+SV20210260,Phạm Bình Trang,Công nghệ thông tin,K65,2.9,91,Khá tích cực
+SV20210261,Phạm An Bình,Công nghệ thông tin,K66,2.9,116,Khá tích cực
+SV20210262,Hồ Hân Quân,Công nghệ thông tin,K64,2.9,84,Khá tích cực
+SV20210263,Nguyễn Linh Vy,Kỹ thuật dữ liệu,K65,2.3,37,Cần cải thiện
+SV20210264,Bùi Hải Nam,Công nghệ thông tin,K66,2.6,66,Khá tích cực
+SV20210265,Nguyễn Vy Vy,Kỹ thuật dữ liệu,K64,2.8,79,Khá tích cực
+SV20210266,Đỗ Dũng Chi,Công nghệ thông tin,K65,2.6,96,Khá tích cực
+SV20210267,Lê An Hải,Công nghệ thông tin,K66,2.9,112,Khá tích cực
+SV20210268,Đặng Chi Minh,Kỹ thuật dữ liệu,K64,2.0,55,Cần cải thiện
+SV20210269,Đặng Hải Chi,Kinh tế số,K65,2.7,63,Khá tích cực
+SV20210270,Trần Lan Lan,Kinh tế số,K66,3.2,85,Khá
+SV20210271,Đỗ Hương Vy,Công nghệ thông tin,K64,2.8,76,Khá tích cực
+SV20210272,Hoàng Dũng An,Kỹ thuật dữ liệu,K65,2.4,91,Cần cải thiện
+SV20210273,Đặng Linh Ngọc,Kinh tế số,K66,2.8,64,Khá tích cực
+SV20210274,Đặng Quân Long,Kinh tế số,K64,2.4,73,Cần cải thiện
+SV20210275,Đỗ Long Giang,Kỹ thuật dữ liệu,K65,3.4,116,Khá
+SV20210276,Đỗ Khánh Chi,Kinh tế số,K66,3.3,63,Khá
+SV20210277,Bùi Hà Khánh,Kinh tế số,K64,2.4,76,Cần cải thiện
+SV20210278,Trần Hân Hương,Kỹ thuật dữ liệu,K65,2.9,69,Khá tích cực
+SV20210279,Hồ Long Hà,Công nghệ thông tin,K66,2.5,67,Khá tích cực
+SV20210280,Vũ Nam Phúc,Kinh tế số,K64,2.4,73,Cần cải thiện
+SV20210281,Trần Phúc Hương,Kỹ thuật dữ liệu,K65,2.2,60,Cần cải thiện
+SV20210282,Đặng Nam Hương,Công nghệ thông tin,K66,3.2,104,Khá
+SV20210283,Nguyễn Bình Long,Công nghệ thông tin,K64,2.7,102,Khá tích cực
+SV20210284,Trần Lan Long,Công nghệ thông tin,K65,3.6,100,Xuất sắc
+SV20210285,Hồ Minh Hương,Công nghệ thông tin,K66,3.5,88,Khá
+SV20210286,Lê Quân Hà,Công nghệ thông tin,K64,2.5,71,Khá tích cực
+SV20210287,Hoàng Bình Quân,Kỹ thuật dữ liệu,K65,1.8,51,Cần cải thiện
+SV20210288,Đỗ Khánh Hân,Kỹ thuật dữ liệu,K66,3.0,78,Khá tích cực
+SV20210289,Phạm Vy Chi,Công nghệ thông tin,K64,2.6,59,Khá tích cực
+SV20210290,Hồ Hải An,Công nghệ thông tin,K65,2.8,88,Khá tích cực
+SV20210291,Phạm Minh Dũng,Kinh tế số,K66,2.7,81,Khá tích cực
+SV20210292,Nguyễn Khánh Vy,Công nghệ thông tin,K64,2.1,71,Cần cải thiện
+SV20210293,Lê Hương Giang,Công nghệ thông tin,K65,3.3,106,Khá
+SV20210294,Hồ Lan Trang,Công nghệ thông tin,K66,3.0,78,Khá tích cực
+SV20210295,Vũ Lan Quân,Công nghệ thông tin,K64,2.0,50,Cần cải thiện
+SV20210296,Đỗ My Quân,Kinh tế số,K65,2.7,68,Khá tích cực
+SV20210297,Nguyễn Chi Minh,Công nghệ thông tin,K66,2.0,58,Cần cải thiện
+SV20210298,Đỗ An Lan,Công nghệ thông tin,K64,2.5,57,Khá tích cực
+SV20210299,Đặng Hương Minh,Công nghệ thông tin,K65,3.0,98,Khá tích cực
+SV20210300,Lê Quân Bình,Kỹ thuật dữ liệu,K66,2.8,118,Khá tích cực
+SV20210301,Nguyễn Hân Dũng,Kỹ thuật dữ liệu,K64,2.4,49,Cần cải thiện
+SV20210302,Đỗ My Hân,Kỹ thuật dữ liệu,K65,2.0,46,Cần cải thiện
+SV20210303,Lê Dũng Dũng,Kinh tế số,K66,2.2,64,Cần cải thiện
+SV20210304,Bùi Hương Hương,Kỹ thuật dữ liệu,K64,2.5,44,Khá tích cực
+SV20210305,Đặng Long Giang,Công nghệ thông tin,K65,2.5,44,Khá tích cực
+SV20210306,Vũ Lan Hân,Công nghệ thông tin,K66,2.6,108,Khá tích cực
+SV20210307,Hoàng Chi My,Công nghệ thông tin,K64,2.6,78,Khá tích cực
+SV20210308,Vũ Giang Hà,Công nghệ thông tin,K65,2.2,82,Cần cải thiện
+SV20210309,Bùi Giang Lan,Công nghệ thông tin,K66,2.4,62,Cần cải thiện
+SV20210310,Hồ Hương Long,Công nghệ thông tin,K64,2.4,77,Cần cải thiện
+SV20210311,Đặng Linh Hân,Kỹ thuật dữ liệu,K65,3.1,106,Khá tích cực
+SV20210312,Lê Vy Dũng,Công nghệ thông tin,K66,3.0,82,Khá tích cực
+SV20210313,Phạm My Bình,Công nghệ thông tin,K64,2.1,60,Cần cải thiện
+SV20210314,Bùi Lan Dũng,Kinh tế số,K65,3.4,118,Khá
+SV20210315,Hồ Long Ngọc,Kỹ thuật dữ liệu,K66,2.8,48,Khá tích cực
+SV20210316,Bùi My Hân,Công nghệ thông tin,K64,2.9,85,Khá tích cực
+SV20210317,Phạm Khánh Trang,Công nghệ thông tin,K65,3.2,100,Khá
+SV20210318,Bùi Chi Dũng,Kinh tế số,K66,2.9,67,Khá tích cực
+SV20210319,Trần An Linh,Công nghệ thông tin,K64,3.0,96,Khá tích cực
+SV20210320,Lê Hải Trang,Kỹ thuật dữ liệu,K65,2.6,94,Khá tích cực
+SV20210321,Lê Minh Phúc,Công nghệ thông tin,K66,2.5,46,Khá tích cực
+SV20210322,Hồ Linh Chi,Công nghệ thông tin,K64,3.6,110,Xuất sắc
+SV20210323,Hồ Nam My,Kinh tế số,K65,3.6,132,Xuất sắc
+SV20210324,Vũ Lan Minh,Kỹ thuật dữ liệu,K66,3.2,111,Khá
+SV20210325,Hoàng Bình Hân,Công nghệ thông tin,K64,2.3,51,Cần cải thiện
+SV20210326,Bùi Quân Bình,Kỹ thuật dữ liệu,K65,2.6,93,Khá tích cực
+SV20210327,Phạm Hà Phúc,Công nghệ thông tin,K66,3.2,115,Khá
+SV20210328,Lê Bình Giang,Công nghệ thông tin,K64,2.6,90,Khá tích cực
+SV20210329,Vũ An Trang,Công nghệ thông tin,K65,2.1,64,Cần cải thiện
+SV20210330,Hoàng Ngọc Chi,Kinh tế số,K66,3.0,71,Khá tích cực
+SV20210331,Trần Long Ngọc,Công nghệ thông tin,K64,2.2,74,Cần cải thiện
+SV20210332,Hoàng Phúc Phúc,Công nghệ thông tin,K65,3.4,107,Khá
+SV20210333,Đỗ Khánh Dũng,Công nghệ thông tin,K66,2.5,77,Khá tích cực
+SV20210334,Hồ Phúc Dũng,Kỹ thuật dữ liệu,K64,2.0,78,Cần cải thiện
+SV20210335,Trần Phúc Nam,Công nghệ thông tin,K65,2.9,87,Khá tích cực
+SV20210336,Đặng Minh Trang,Công nghệ thông tin,K66,2.0,56,Cần cải thiện
+SV20210337,Đặng Dũng Minh,Kinh tế số,K64,2.4,52,Cần cải thiện
+SV20210338,Đỗ Chi Quân,Công nghệ thông tin,K65,3.2,107,Khá
+SV20210339,Đỗ Lan Ngọc,Kinh tế số,K66,2.8,78,Khá tích cực
+SV20210340,Trần Hân Dũng,Công nghệ thông tin,K64,2.8,89,Khá tích cực
+SV20210341,Lê Minh Khánh,Kỹ thuật dữ liệu,K65,2.2,63,Cần cải thiện
+SV20210342,Lê Quân Chi,Kinh tế số,K66,2.9,68,Khá tích cực
+SV20210343,Đặng Nam Chi,Kỹ thuật dữ liệu,K64,3.0,96,Khá tích cực
+SV20210344,Nguyễn Hà Lan,Kinh tế số,K65,1.8,52,Cần cải thiện
+SV20210345,Bùi Chi An,Kỹ thuật dữ liệu,K66,3.6,129,Xuất sắc
+SV20210346,Hồ Giang An,Công nghệ thông tin,K64,2.9,104,Khá tích cực
+SV20210347,Bùi My Minh,Công nghệ thông tin,K65,3.2,126,Khá
+SV20210348,Nguyễn Khánh Bình,Kinh tế số,K66,3.0,97,Khá tích cực
+SV20210349,Nguyễn Long Chi,Công nghệ thông tin,K64,2.5,57,Khá tích cực
+SV20210350,Lê Vy Vy,Công nghệ thông tin,K65,3.7,132,Xuất sắc
+SV20210351,Hoàng Giang Ngọc,Công nghệ thông tin,K66,2.0,61,Cần cải thiện
+SV20210352,Đặng Trang Giang,Kỹ thuật dữ liệu,K64,2.6,58,Khá tích cực
+SV20210353,Nguyễn An Trang,Công nghệ thông tin,K65,3.3,113,Khá
+SV20210354,Phạm Bình Long,Kinh tế số,K66,2.5,64,Khá tích cực
+SV20210355,Đặng Linh Minh,Công nghệ thông tin,K64,2.9,80,Khá tích cực
+SV20210356,Đỗ An Vy,Kỹ thuật dữ liệu,K65,3.1,93,Khá tích cực
+SV20210357,Trần Khánh Chi,Công nghệ thông tin,K66,2.8,78,Khá tích cực
+SV20210358,Nguyễn Phúc Giang,Công nghệ thông tin,K64,3.3,77,Khá
+SV20210359,Hoàng Bình My,Công nghệ thông tin,K65,2.5,58,Khá tích cực
+SV20210360,Vũ Dũng Vy,Công nghệ thông tin,K66,1.9,71,Cần cải thiện
+SV20210361,Vũ Hà Hương,Công nghệ thông tin,K64,3.2,97,Khá
+SV20210362,Hoàng Trang My,Kinh tế số,K65,2.4,83,Cần cải thiện
+SV20210363,Phạm Giang Minh,Kinh tế số,K66,3.0,103,Khá tích cực
+SV20210364,Bùi My Hải,Kinh tế số,K64,3.2,85,Khá
+SV20210365,Vũ Quân Nam,Công nghệ thông tin,K65,2.2,38,Cần cải thiện
+SV20210366,Lê Bình Linh,Công nghệ thông tin,K66,2.9,74,Khá tích cực
+SV20210367,Phạm Khánh Hương,Kinh tế số,K64,2.5,80,Khá tích cực
+SV20210368,Đặng Vy Minh,Công nghệ thông tin,K65,3.5,114,Khá
+SV20210369,Hoàng Lan Khánh,Công nghệ thông tin,K66,2.6,72,Khá tích cực
+SV20210370,Phạm Vy Quân,Kỹ thuật dữ liệu,K64,1.6,36,Cần cải thiện
+SV20210371,Hoàng Hà Ngọc,Công nghệ thông tin,K65,3.4,81,Khá
+SV20210372,Bùi An Hà,Công nghệ thông tin,K66,3.3,118,Khá
+SV20210373,Đỗ Hương Hà,Công nghệ thông tin,K64,2.6,81,Khá tích cực
+SV20210374,Vũ Bình Long,Kỹ thuật dữ liệu,K65,3.0,90,Khá tích cực
+SV20210375,Phạm Ngọc My,Kinh tế số,K66,2.4,86,Cần cải thiện
+SV20210376,Bùi Hương Linh,Kỹ thuật dữ liệu,K64,2.7,94,Khá tích cực
+SV20210377,Hồ Vy Quân,Công nghệ thông tin,K65,3.1,86,Khá tích cực
+SV20210378,Nguyễn Vy Ngọc,Công nghệ thông tin,K66,2.8,91,Khá tích cực
+SV20210379,Trần An Hân,Kỹ thuật dữ liệu,K64,2.4,62,Cần cải thiện
+SV20210380,Nguyễn Long Trang,Kỹ thuật dữ liệu,K65,1.9,44,Cần cải thiện
+SV20210381,Phạm Phúc Ngọc,Công nghệ thông tin,K66,2.6,86,Khá tích cực
+SV20210382,Vũ Trang Minh,Công nghệ thông tin,K64,2.9,89,Khá tích cực
+SV20210383,Phạm Minh Phúc,Công nghệ thông tin,K65,3.0,95,Khá tích cực
+SV20210384,Nguyễn Bình Minh,Kỹ thuật dữ liệu,K66,2.0,87,Cần cải thiện
+SV20210385,Vũ Hân Phúc,Công nghệ thông tin,K64,2.8,97,Khá tích cực
+SV20210386,Trần Lan Bình,Kỹ thuật dữ liệu,K65,2.2,65,Cần cải thiện
+SV20210387,Nguyễn Hải Long,Công nghệ thông tin,K66,2.9,129,Khá tích cực
+SV20210388,Nguyễn Khánh An,Công nghệ thông tin,K64,2.3,49,Cần cải thiện
+SV20210389,Trần Minh Chi,Công nghệ thông tin,K65,3.0,95,Khá tích cực
+SV20210390,Trần Linh Hương,Công nghệ thông tin,K66,2.7,79,Khá tích cực
+SV20210391,Bùi Chi Hải,Công nghệ thông tin,K64,2.2,76,Cần cải thiện
+SV20210392,Vũ Phúc Trang,Kinh tế số,K65,2.8,69,Khá tích cực
+SV20210393,Đỗ An Bình,Công nghệ thông tin,K66,2.4,77,Cần cải thiện
+SV20210394,Đặng Bình Bình,Kỹ thuật dữ liệu,K64,2.8,86,Khá tích cực
+SV20210395,Đặng Minh Hà,Công nghệ thông tin,K65,3.3,72,Khá
+SV20210396,Trần Minh Hà,Công nghệ thông tin,K66,3.0,102,Khá tích cực
+SV20210397,Hoàng Hân Trang,Công nghệ thông tin,K64,3.1,111,Khá tích cực
+SV20210398,Phạm Hải Vy,Công nghệ thông tin,K65,3.1,100,Khá tích cực
+SV20210399,Đỗ Nam Minh,Kỹ thuật dữ liệu,K66,2.0,60,Cần cải thiện
+SV20210400,Vũ Hải Khánh,Kinh tế số,K64,2.7,63,Khá tích cực
+SV20210401,Đặng Quân Vy,Kinh tế số,K65,3.6,132,Xuất sắc
+SV20210402,Hoàng Phúc Giang,Kinh tế số,K66,2.4,55,Cần cải thiện
+SV20210403,Đặng Hà Quân,Kinh tế số,K64,2.6,66,Khá tích cực
+SV20210404,Trần Hương Giang,Kinh tế số,K65,1.7,43,Cần cải thiện
+SV20210405,Trần Giang Vy,Kỹ thuật dữ liệu,K66,3.4,108,Khá
+SV20210406,Trần Hà Linh,Công nghệ thông tin,K64,2.8,79,Khá tích cực
+SV20210407,Vũ Long Ngọc,Công nghệ thông tin,K65,2.6,107,Khá tích cực
+SV20210408,Trần Phúc Nam,Công nghệ thông tin,K66,2.8,82,Khá tích cực
+SV20210409,Đỗ Hương Phúc,Kinh tế số,K64,3.1,86,Khá tích cực
+SV20210410,Hoàng Dũng Chi,Công nghệ thông tin,K65,1.9,28,Cần cải thiện
+SV20210411,Phạm My Hà,Kinh tế số,K66,3.0,96,Khá tích cực
+SV20210412,Trần Phúc Linh,Công nghệ thông tin,K64,2.2,70,Cần cải thiện
+SV20210413,Bùi Vy Chi,Công nghệ thông tin,K65,2.2,69,Cần cải thiện
+SV20210414,Phạm Chi Chi,Công nghệ thông tin,K66,2.4,65,Cần cải thiện
+SV20210415,Nguyễn Bình Minh,Công nghệ thông tin,K64,2.5,60,Khá tích cực
+SV20210416,Hoàng Long Chi,Công nghệ thông tin,K65,2.1,70,Cần cải thiện
+SV20210417,Lê Giang Minh,Công nghệ thông tin,K66,2.0,39,Cần cải thiện
+SV20210418,Hoàng Bình Hương,Công nghệ thông tin,K64,3.2,105,Khá
+SV20210419,Đỗ Vy Dũng,Công nghệ thông tin,K65,2.6,108,Khá tích cực
+SV20210420,Hoàng Minh An,Công nghệ thông tin,K66,2.4,73,Cần cải thiện
+SV20210421,Nguyễn Giang Linh,Công nghệ thông tin,K64,2.0,48,Cần cải thiện
+SV20210422,Hồ Bình Quân,Kinh tế số,K65,3.4,92,Khá
+SV20210423,Hồ Hương Vy,Công nghệ thông tin,K66,2.1,69,Cần cải thiện
+SV20210424,Phạm An Hân,Kinh tế số,K64,3.0,107,Khá tích cực
+SV20210425,Vũ Hân Long,Công nghệ thông tin,K65,3.4,85,Khá
+SV20210426,Trần Hân Hải,Công nghệ thông tin,K66,1.9,57,Cần cải thiện
+SV20210427,Nguyễn Khánh Chi,Công nghệ thông tin,K64,3.6,103,Xuất sắc
+SV20210428,Đặng Hân Hà,Công nghệ thông tin,K65,2.4,82,Cần cải thiện
+SV20210429,Hồ Lan Lan,Công nghệ thông tin,K66,2.1,51,Cần cải thiện
+SV20210430,Nguyễn Lan Long,Kỹ thuật dữ liệu,K64,2.6,88,Khá tích cực
+SV20210431,Đỗ Lan Ngọc,Công nghệ thông tin,K65,2.8,80,Khá tích cực
+SV20210432,Phạm Ngọc Vy,Công nghệ thông tin,K66,2.2,83,Cần cải thiện
+SV20210433,Phạm Hải Khánh,Công nghệ thông tin,K64,2.8,104,Khá tích cực
+SV20210434,Hoàng Vy Hân,Kỹ thuật dữ liệu,K65,2.4,57,Cần cải thiện
+SV20210435,Vũ Nam Vy,Kinh tế số,K66,3.0,91,Khá tích cực
+SV20210436,Đặng Minh Chi,Kỹ thuật dữ liệu,K64,2.2,87,Cần cải thiện
+SV20210437,Nguyễn Linh Lan,Kinh tế số,K65,2.6,76,Khá tích cực
+SV20210438,Lê Minh Lan,Kỹ thuật dữ liệu,K66,2.8,76,Khá tích cực
+SV20210439,Trần Khánh Phúc,Công nghệ thông tin,K64,3.1,100,Khá tích cực
+SV20210440,Bùi Hương Khánh,Công nghệ thông tin,K65,2.1,67,Cần cải thiện
+SV20210441,Lê Bình Minh,Kinh tế số,K66,2.9,68,Khá tích cực
+SV20210442,Vũ Hân Giang,Công nghệ thông tin,K64,3.1,96,Khá tích cực
+SV20210443,Phạm Hân Hương,Kỹ thuật dữ liệu,K65,2.1,33,Cần cải thiện
+SV20210444,Vũ Khánh Trang,Công nghệ thông tin,K66,2.5,83,Khá tích cực
+SV20210445,Phạm Nam Phúc,Kỹ thuật dữ liệu,K64,3.5,121,Khá
+SV20210446,Trần Quân Nam,Kỹ thuật dữ liệu,K65,2.3,59,Cần cải thiện
+SV20210447,Hoàng Phúc Ngọc,Kinh tế số,K66,1.7,52,Cần cải thiện
+SV20210448,Phạm My Giang,Công nghệ thông tin,K64,2.4,58,Cần cải thiện
+SV20210449,Lê Giang Quân,Công nghệ thông tin,K65,1.9,49,Cần cải thiện
+SV20210450,Đỗ Minh Long,Công nghệ thông tin,K66,3.3,96,Khá
+SV20210451,Trần Dũng Khánh,Công nghệ thông tin,K64,2.4,65,Cần cải thiện
+SV20210452,Phạm Hương Vy,Công nghệ thông tin,K65,3.4,105,Khá
+SV20210453,Hồ Chi Chi,Kinh tế số,K66,2.7,89,Khá tích cực
+SV20210454,Hoàng Quân Lan,Công nghệ thông tin,K64,2.2,61,Cần cải thiện
+SV20210455,Đặng Trang Ngọc,Công nghệ thông tin,K65,3.2,105,Khá
+SV20210456,Vũ Long An,Kỹ thuật dữ liệu,K66,2.5,92,Khá tích cực
+SV20210457,Hồ Giang Hà,Kỹ thuật dữ liệu,K64,3.1,79,Khá tích cực
+SV20210458,Phạm Giang Minh,Kỹ thuật dữ liệu,K65,2.6,82,Khá tích cực
+SV20210459,Hồ Hương Hân,Kinh tế số,K66,3.2,105,Khá
+SV20210460,Lê Chi Hà,Công nghệ thông tin,K64,2.0,88,Cần cải thiện
+SV20210461,Trần Nam Dũng,Kinh tế số,K65,3.0,87,Khá tích cực
+SV20210462,Trần Giang Dũng,Kỹ thuật dữ liệu,K66,2.9,87,Khá tích cực
+SV20210463,Phạm Hân Hân,Kỹ thuật dữ liệu,K64,3.0,100,Khá tích cực
+SV20210464,Trần Vy Minh,Kỹ thuật dữ liệu,K65,2.4,79,Cần cải thiện
+SV20210465,Trần Khánh Minh,Kỹ thuật dữ liệu,K66,2.8,79,Khá tích cực
+SV20210466,Đỗ Giang My,Kinh tế số,K64,2.6,60,Khá tích cực
+SV20210467,Trần Lan Hà,Công nghệ thông tin,K65,3.3,99,Khá
+SV20210468,Hồ Quân My,Kỹ thuật dữ liệu,K66,2.1,56,Cần cải thiện
+SV20210469,Hoàng Lan Hà,Công nghệ thông tin,K64,3.3,88,Khá
+SV20210470,Trần Lan Minh,Công nghệ thông tin,K65,2.9,81,Khá tích cực
+SV20210471,Nguyễn Hà Minh,Kinh tế số,K66,2.6,104,Khá tích cực
+SV20210472,Nguyễn Minh Minh,Công nghệ thông tin,K64,2.6,61,Khá tích cực
+SV20210473,Đỗ Chi Hương,Công nghệ thông tin,K65,2.3,71,Cần cải thiện
+SV20210474,Trần Ngọc Hải,Kinh tế số,K66,3.1,76,Khá tích cực
+SV20210475,Hoàng Nam Vy,Kỹ thuật dữ liệu,K64,3.0,100,Khá tích cực
+SV20210476,Lê My Ngọc,Công nghệ thông tin,K65,3.3,130,Khá
+SV20210477,Vũ Linh Ngọc,Công nghệ thông tin,K66,3.6,118,Xuất sắc
+SV20210478,Hồ An Giang,Công nghệ thông tin,K64,3.3,80,Khá
+SV20210479,Hoàng Trang Long,Công nghệ thông tin,K65,3.0,114,Khá tích cực
+SV20210480,Vũ Hân Lan,Kỹ thuật dữ liệu,K66,2.4,64,Cần cải thiện
+SV20210481,Hoàng Hương Phúc,Kỹ thuật dữ liệu,K64,2.6,87,Khá tích cực
+SV20210482,Bùi Chi Giang,Công nghệ thông tin,K65,1.9,47,Cần cải thiện
+SV20210483,Hoàng Chi Phúc,Công nghệ thông tin,K66,2.0,57,Cần cải thiện
+SV20210484,Hoàng Hải Quân,Công nghệ thông tin,K64,2.1,54,Cần cải thiện
+SV20210485,Lê Chi Phúc,Kinh tế số,K65,2.0,53,Cần cải thiện
+SV20210486,Nguyễn Hân Giang,Kinh tế số,K66,2.6,66,Khá tích cực
+SV20210487,Trần Hà Hương,Kinh tế số,K64,2.3,44,Cần cải thiện
+SV20210488,Vũ Hải Chi,Kinh tế số,K65,2.1,73,Cần cải thiện
+SV20210489,Hoàng Nam Giang,Kinh tế số,K66,3.0,100,Khá tích cực
+SV20210490,Vũ Lan Khánh,Công nghệ thông tin,K64,2.5,81,Khá tích cực
+SV20210491,Hoàng An Long,Công nghệ thông tin,K65,2.8,94,Khá tích cực
+SV20210492,Trần An Ngọc,Công nghệ thông tin,K66,2.3,45,Cần cải thiện
+SV20210493,Nguyễn Quân Ngọc,Công nghệ thông tin,K64,3.1,83,Khá tích cực
+SV20210494,Bùi Trang Khánh,Công nghệ thông tin,K65,2.7,86,Khá tích cực
+SV20210495,Vũ Nam Hải,Công nghệ thông tin,K66,3.5,98,Khá
+SV20210496,Đỗ Hà Khánh,Kinh tế số,K64,2.3,61,Cần cải thiện
+SV20210497,Bùi Ngọc Hương,Công nghệ thông tin,K65,2.4,78,Cần cải thiện
+SV20210498,Phạm Chi Hải,Công nghệ thông tin,K66,2.9,102,Khá tích cực
+SV20210499,Nguyễn Vy Dũng,Kinh tế số,K64,2.4,62,Cần cải thiện
+SV20210500,Trần Bình Chi,Công nghệ thông tin,K65,2.4,103,Cần cải thiện
+SV20210501,Hoàng Quân Hải,Công nghệ thông tin,K66,2.8,93,Khá tích cực
+SV20210502,Bùi Khánh Hân,Kinh tế số,K64,2.8,97,Khá tích cực
+SV20210503,Nguyễn Lan An,Kỹ thuật dữ liệu,K65,3.0,116,Khá tích cực
+SV20210504,Nguyễn Giang Hà,Công nghệ thông tin,K66,2.1,51,Cần cải thiện
+SV20210505,Nguyễn My Long,Công nghệ thông tin,K64,2.7,100,Khá tích cực
+SV20210506,Đặng An Giang,Kỹ thuật dữ liệu,K65,2.8,116,Khá tích cực
+SV20210507,Đặng Hương Chi,Công nghệ thông tin,K66,1.7,44,Cần cải thiện
+SV20210508,Vũ Nam Nam,Kinh tế số,K64,2.0,43,Cần cải thiện
+SV20210509,Nguyễn Minh Minh,Công nghệ thông tin,K65,2.8,77,Khá tích cực
+SV20210510,Đỗ Nam Khánh,Kinh tế số,K66,2.3,31,Cần cải thiện
+SV20210511,Bùi Hân Ngọc,Kinh tế số,K64,2.9,70,Khá tích cực
+SV20210512,Đỗ Bình Linh,Công nghệ thông tin,K65,2.7,63,Khá tích cực
+SV20210513,Hồ Phúc My,Công nghệ thông tin,K66,2.6,95,Khá tích cực
+SV20210514,Lê Linh Chi,Kỹ thuật dữ liệu,K64,2.2,86,Cần cải thiện
+SV20210515,Nguyễn Long Long,Công nghệ thông tin,K65,2.7,77,Khá tích cực
+SV20210516,Trần Long Dũng,Kinh tế số,K66,3.1,63,Khá tích cực
+SV20210517,Đỗ My Hương,Công nghệ thông tin,K64,3.4,102,Khá
+SV20210518,Nguyễn Phúc Lan,Công nghệ thông tin,K65,2.9,87,Khá tích cực
+SV20210519,Đặng Ngọc Bình,Kinh tế số,K66,3.2,96,Khá
+SV20210520,Phạm Nam Nam,Công nghệ thông tin,K64,3.3,121,Khá
+SV20210521,Hoàng Chi Hân,Công nghệ thông tin,K65,3.0,106,Khá tích cực
+SV20210522,Nguyễn Chi Vy,Công nghệ thông tin,K66,2.9,92,Khá tích cực
+SV20210523,Hoàng Hân Vy,Công nghệ thông tin,K64,2.8,90,Khá tích cực
+SV20210524,Lê Hải Bình,Công nghệ thông tin,K65,2.4,78,Cần cải thiện
+SV20210525,Hồ Hương Ngọc,Công nghệ thông tin,K66,2.4,65,Cần cải thiện
+SV20210526,Nguyễn Hà Vy,Công nghệ thông tin,K64,2.1,90,Cần cải thiện
+SV20210527,Trần An Long,Công nghệ thông tin,K65,2.7,64,Khá tích cực
+SV20210528,Hoàng Phúc Khánh,Công nghệ thông tin,K66,1.7,28,Cần cải thiện
+SV20210529,Lê Hải Hà,Công nghệ thông tin,K64,3.6,92,Xuất sắc
+SV20210530,Trần Trang Giang,Công nghệ thông tin,K65,2.3,59,Cần cải thiện
+SV20210531,Hồ Lan Khánh,Công nghệ thông tin,K66,3.4,72,Khá
+SV20210532,Lê Chi Bình,Công nghệ thông tin,K64,2.5,66,Khá tích cực
+SV20210533,Đỗ Quân Long,Công nghệ thông tin,K65,2.9,75,Khá tích cực
+SV20210534,Phạm An Giang,Kinh tế số,K66,2.6,55,Khá tích cực
+SV20210535,Lê Phúc Dũng,Kinh tế số,K64,2.7,57,Khá tích cực
+SV20210536,Hoàng Chi Quân,Kỹ thuật dữ liệu,K65,2.3,65,Cần cải thiện
+SV20210537,Hồ Hân Hải,Kinh tế số,K66,2.8,84,Khá tích cực
+SV20210538,Nguyễn Nam Dũng,Công nghệ thông tin,K64,2.3,62,Cần cải thiện
+SV20210539,Hồ Linh An,Kinh tế số,K65,3.1,94,Khá tích cực
+SV20210540,Bùi Trang Vy,Công nghệ thông tin,K66,2.9,112,Khá tích cực
+SV20210541,Trần Long Linh,Công nghệ thông tin,K64,3.0,83,Khá tích cực
+SV20210542,Đỗ Lan Quân,Công nghệ thông tin,K65,2.3,92,Cần cải thiện
+SV20210543,Đỗ Nam Trang,Công nghệ thông tin,K66,2.9,98,Khá tích cực
+SV20210544,Lê Quân Linh,Công nghệ thông tin,K64,3.1,71,Khá tích cực
+SV20210545,Đỗ Chi An,Kỹ thuật dữ liệu,K65,2.2,56,Cần cải thiện
+SV20210546,Phạm Lan Hải,Công nghệ thông tin,K66,3.4,119,Khá
+SV20210547,Bùi Quân Trang,Kỹ thuật dữ liệu,K64,3.4,86,Khá
+SV20210548,Nguyễn Minh Hải,Công nghệ thông tin,K65,2.3,78,Cần cải thiện
+SV20210549,Hoàng Long Long,Công nghệ thông tin,K66,2.3,65,Cần cải thiện
+SV20210550,Hồ Hương Lan,Kỹ thuật dữ liệu,K64,3.2,93,Khá
+SV20210551,Vũ Linh Hà,Công nghệ thông tin,K65,2.7,73,Khá tích cực
+SV20210552,Hồ Long Hân,Kinh tế số,K66,3.1,91,Khá tích cực
+SV20210553,Đặng Ngọc Hải,Công nghệ thông tin,K64,3.0,75,Khá tích cực
+SV20210554,Bùi Dũng Hân,Công nghệ thông tin,K65,2.6,94,Khá tích cực
+SV20210555,Bùi Khánh Long,Công nghệ thông tin,K66,2.6,79,Khá tích cực
+SV20210556,Bùi Dũng Nam,Kinh tế số,K64,2.7,89,Khá tích cực
+SV20210557,Bùi Minh Lan,Kinh tế số,K65,2.5,67,Khá tích cực
+SV20210558,Bùi Giang Hân,Công nghệ thông tin,K66,2.7,95,Khá tích cực
+SV20210559,Hoàng Phúc My,Công nghệ thông tin,K64,3.4,103,Khá
+SV20210560,Hồ Linh Quân,Kỹ thuật dữ liệu,K65,3.3,114,Khá
+SV20210561,Đỗ Dũng An,Công nghệ thông tin,K66,2.1,71,Cần cải thiện
+SV20210562,Vũ An Minh,Công nghệ thông tin,K64,2.2,56,Cần cải thiện
+SV20210563,Bùi Phúc Nam,Công nghệ thông tin,K65,2.1,42,Cần cải thiện
+SV20210564,Vũ An Dũng,Kỹ thuật dữ liệu,K66,2.4,57,Cần cải thiện
+SV20210565,Nguyễn Hà Giang,Kinh tế số,K64,2.9,85,Khá tích cực
+SV20210566,Trần Bình Chi,Kỹ thuật dữ liệu,K65,2.3,58,Cần cải thiện
+SV20210567,Trần Minh Long,Công nghệ thông tin,K66,2.0,71,Cần cải thiện
+SV20210568,Nguyễn Hà Khánh,Kinh tế số,K64,2.3,70,Cần cải thiện
+SV20210569,Lê Hải Dũng,Kinh tế số,K65,3.4,112,Khá
+SV20210570,Đặng Hương Hải,Kinh tế số,K66,3.0,118,Khá tích cực
+SV20210571,Đặng Hương Vy,Kinh tế số,K64,3.7,85,Xuất sắc
+SV20210572,Phạm Lan Phúc,Kỹ thuật dữ liệu,K65,2.7,95,Khá tích cực
+SV20210573,Đỗ Quân Long,Công nghệ thông tin,K66,2.7,68,Khá tích cực
+SV20210574,Trần Hân Lan,Công nghệ thông tin,K64,2.9,85,Khá tích cực
+SV20210575,Đỗ Hải Hương,Công nghệ thông tin,K65,2.3,66,Cần cải thiện
+SV20210576,Lê Hân Minh,Kỹ thuật dữ liệu,K66,2.2,60,Cần cải thiện
+SV20210577,Phạm Hương Lan,Công nghệ thông tin,K64,3.6,108,Xuất sắc
+SV20210578,Trần Ngọc Trang,Công nghệ thông tin,K65,3.7,103,Xuất sắc
+SV20210579,Trần Hải An,Kinh tế số,K66,2.3,56,Cần cải thiện
+SV20210580,Trần Vy Nam,Công nghệ thông tin,K64,2.7,83,Khá tích cực
+SV20210581,Nguyễn Vy Ngọc,Công nghệ thông tin,K65,2.3,63,Cần cải thiện
+SV20210582,Hồ Long An,Công nghệ thông tin,K66,3.2,78,Khá
+SV20210583,Đặng Minh Giang,Kỹ thuật dữ liệu,K64,2.0,43,Cần cải thiện
+SV20210584,Nguyễn Hà Khánh,Công nghệ thông tin,K65,2.9,85,Khá tích cực
+SV20210585,Đặng Minh Minh,Công nghệ thông tin,K66,3.5,106,Khá
+SV20210586,Nguyễn Long Nam,Công nghệ thông tin,K64,3.3,101,Khá
+SV20210587,Vũ Hải Hương,Công nghệ thông tin,K65,2.3,90,Cần cải thiện
+SV20210588,Hoàng Hải Dũng,Công nghệ thông tin,K66,2.9,46,Khá tích cực
+SV20210589,Trần Hương Minh,Kỹ thuật dữ liệu,K64,2.9,119,Khá tích cực
+SV20210590,Vũ Dũng Linh,Công nghệ thông tin,K65,2.1,28,Cần cải thiện
+SV20210591,Lê Giang Dũng,Công nghệ thông tin,K66,2.6,111,Khá tích cực
+SV20210592,Nguyễn Trang My,Công nghệ thông tin,K64,3.1,108,Khá tích cực
+SV20210593,Hồ Vy Hà,Công nghệ thông tin,K65,2.3,58,Cần cải thiện
+SV20210594,Hoàng Bình Hải,Công nghệ thông tin,K66,2.7,78,Khá tích cực
+SV20210595,Lê Vy Khánh,Kỹ thuật dữ liệu,K64,2.3,86,Cần cải thiện
+SV20210596,Đỗ Quân Trang,Công nghệ thông tin,K65,2.5,73,Khá tích cực
+SV20210597,Vũ Bình An,Công nghệ thông tin,K66,3.0,84,Khá tích cực
+SV20210598,Lê Hân Phúc,Công nghệ thông tin,K64,3.0,103,Khá tích cực
+SV20210599,Hồ Chi My,Kỹ thuật dữ liệu,K65,2.8,90,Khá tích cực
+SV20210600,Hoàng Hải My,Kinh tế số,K66,1.7,54,Cần cải thiện
+SV20210601,Trần Long Vy,Công nghệ thông tin,K64,2.7,84,Khá tích cực
+SV20210602,Vũ Lan Hương,Kinh tế số,K65,2.8,53,Khá tích cực
+SV20210603,Vũ Trang Minh,Công nghệ thông tin,K66,2.8,76,Khá tích cực
+SV20210604,Bùi Dũng Linh,Công nghệ thông tin,K64,3.1,88,Khá tích cực
+SV20210605,Trần Nam Quân,Công nghệ thông tin,K65,2.7,80,Khá tích cực
+SV20210606,Hồ Trang Phúc,Công nghệ thông tin,K66,2.7,90,Khá tích cực
+SV20210607,Phạm Ngọc Trang,Công nghệ thông tin,K64,2.6,82,Khá tích cực
+SV20210608,Vũ An Chi,Kinh tế số,K65,2.3,51,Cần cải thiện
+SV20210609,Đỗ Dũng Chi,Công nghệ thông tin,K66,2.4,98,Cần cải thiện
+SV20210610,Trần Hân My,Kỹ thuật dữ liệu,K64,2.7,56,Khá tích cực
+SV20210611,Trần Dũng Ngọc,Công nghệ thông tin,K65,3.4,107,Khá
+SV20210612,Nguyễn Khánh Linh,Công nghệ thông tin,K66,1.6,69,Cần cải thiện
+SV20210613,Đỗ Hà An,Kinh tế số,K64,2.8,62,Khá tích cực
+SV20210614,Hoàng Ngọc Vy,Công nghệ thông tin,K65,2.9,78,Khá tích cực
+SV20210615,Lê Khánh Hà,Công nghệ thông tin,K66,3.7,111,Xuất sắc
+SV20210616,Lê An Ngọc,Kinh tế số,K64,2.6,56,Khá tích cực
+SV20210617,Trần An Khánh,Kỹ thuật dữ liệu,K65,3.1,76,Khá tích cực
+SV20210618,Bùi Lan Quân,Công nghệ thông tin,K66,2.4,59,Cần cải thiện
+SV20210619,Đỗ Khánh Long,Công nghệ thông tin,K64,1.8,49,Cần cải thiện
+SV20210620,Phạm Hân Ngọc,Công nghệ thông tin,K65,1.9,46,Cần cải thiện
+SV20210621,Nguyễn Long Long,Kinh tế số,K66,2.8,63,Khá tích cực
+SV20210622,Đặng Hải Phúc,Kinh tế số,K64,2.0,49,Cần cải thiện
+SV20210623,Hoàng Linh Long,Công nghệ thông tin,K65,3.1,101,Khá tích cực
+SV20210624,Hồ Ngọc Ngọc,Công nghệ thông tin,K66,2.8,74,Khá tích cực
+SV20210625,Lê Vy Hương,Kinh tế số,K64,3.2,87,Khá
+SV20210626,Nguyễn Hương Ngọc,Công nghệ thông tin,K65,2.6,61,Khá tích cực
+SV20210627,Đỗ Dũng Hà,Kinh tế số,K66,2.2,49,Cần cải thiện
+SV20210628,Nguyễn An Linh,Kỹ thuật dữ liệu,K64,3.5,113,Khá
+SV20210629,Hồ Hân Giang,Kỹ thuật dữ liệu,K65,2.0,46,Cần cải thiện
+SV20210630,Nguyễn Trang My,Công nghệ thông tin,K66,2.4,52,Cần cải thiện
+SV20210631,Nguyễn Chi Phúc,Kỹ thuật dữ liệu,K64,2.1,73,Cần cải thiện
+SV20210632,Hoàng Lan Hà,Công nghệ thông tin,K65,3.4,124,Khá
+SV20210633,Hoàng Chi Hải,Kinh tế số,K66,4.0,118,Xuất sắc
+SV20210634,Đặng Bình Hân,Kinh tế số,K64,3.4,111,Khá
+SV20210635,Đặng Long Long,Kinh tế số,K65,2.8,74,Khá tích cực
+SV20210636,Phạm Trang Hân,Công nghệ thông tin,K66,3.0,98,Khá tích cực
+SV20210637,Trần Long Giang,Kinh tế số,K64,2.4,86,Cần cải thiện
+SV20210638,Lê Hà Chi,Kinh tế số,K65,2.4,59,Cần cải thiện
+SV20210639,Trần Nam Khánh,Kinh tế số,K66,2.9,78,Khá tích cực
+SV20210640,Vũ Quân Linh,Kỹ thuật dữ liệu,K64,1.2,28,Cần cải thiện
+SV20210641,Lê Minh Giang,Công nghệ thông tin,K65,3.0,98,Khá tích cực
+SV20210642,Hoàng Phúc My,Công nghệ thông tin,K66,2.7,77,Khá tích cực
+SV20210643,Đặng Phúc Minh,Công nghệ thông tin,K64,3.0,86,Khá tích cực
+SV20210644,Trần Trang Nam,Kinh tế số,K65,2.3,58,Cần cải thiện
+SV20210645,Trần Minh My,Kỹ thuật dữ liệu,K66,3.3,117,Khá
+SV20210646,Đỗ Linh Ngọc,Kinh tế số,K64,2.8,83,Khá tích cực
+SV20210647,Nguyễn Hà Giang,Công nghệ thông tin,K65,2.1,85,Cần cải thiện
+SV20210648,Bùi Phúc Khánh,Kinh tế số,K66,2.7,90,Khá tích cực
+SV20210649,Đỗ Dũng Ngọc,Công nghệ thông tin,K64,3.3,97,Khá
+SV20210650,Đặng Long My,Công nghệ thông tin,K65,2.9,98,Khá tích cực
+SV20210651,Bùi Ngọc Lan,Kinh tế số,K66,2.9,75,Khá tích cực
+SV20210652,Hoàng Nam Long,Công nghệ thông tin,K64,3.1,98,Khá tích cực
+SV20210653,Hồ Trang Trang,Công nghệ thông tin,K65,1.7,45,Cần cải thiện
+SV20210654,Vũ Bình Lan,Kỹ thuật dữ liệu,K66,2.7,66,Khá tích cực
+SV20210655,Vũ Giang Hương,Kỹ thuật dữ liệu,K64,2.4,48,Cần cải thiện
+SV20210656,Nguyễn Phúc An,Kỹ thuật dữ liệu,K65,2.9,94,Khá tích cực
+SV20210657,Trần Ngọc Khánh,Công nghệ thông tin,K66,3.3,87,Khá
+SV20210658,Bùi Trang Long,Kỹ thuật dữ liệu,K64,3.6,129,Xuất sắc
+SV20210659,Đỗ Chi Ngọc,Công nghệ thông tin,K65,1.6,41,Cần cải thiện
+SV20210660,Hoàng My Hân,Công nghệ thông tin,K66,1.9,40,Cần cải thiện
+SV20210661,Hoàng My Phúc,Công nghệ thông tin,K64,4.0,132,Xuất sắc
+SV20210662,Hồ Khánh Hương,Công nghệ thông tin,K65,2.7,93,Khá tích cực
+SV20210663,Hoàng Bình Nam,Công nghệ thông tin,K66,3.1,92,Khá tích cực
+SV20210664,Nguyễn Quân Phúc,Công nghệ thông tin,K64,2.5,53,Khá tích cực
+SV20210665,Đặng Chi Quân,Kỹ thuật dữ liệu,K65,1.9,37,Cần cải thiện
+SV20210666,Phạm Vy Hải,Công nghệ thông tin,K66,2.9,68,Khá tích cực
+SV20210667,Nguyễn Trang Giang,Công nghệ thông tin,K64,2.7,93,Khá tích cực
+SV20210668,Lê Nam Trang,Công nghệ thông tin,K65,3.4,129,Khá
+SV20210669,Phạm Giang Linh,Công nghệ thông tin,K66,2.3,59,Cần cải thiện
+SV20210670,Hoàng Lan Long,Kỹ thuật dữ liệu,K64,3.7,111,Xuất sắc
+SV20210671,Hồ Hương Chi,Công nghệ thông tin,K65,2.8,76,Khá tích cực
+SV20210672,Đặng Quân Linh,Kinh tế số,K66,2.7,49,Khá tích cực
+SV20210673,Vũ Dũng Lan,Kỹ thuật dữ liệu,K64,2.8,75,Khá tích cực
+SV20210674,Hoàng Giang Hân,Công nghệ thông tin,K65,3.0,56,Khá tích cực
+SV20210675,Vũ Lan Minh,Công nghệ thông tin,K66,3.3,81,Khá
+SV20210676,Đặng Ngọc Bình,Kinh tế số,K64,2.3,66,Cần cải thiện
+SV20210677,Đặng Phúc My,Kinh tế số,K65,2.2,59,Cần cải thiện
+SV20210678,Nguyễn Chi Linh,Kỹ thuật dữ liệu,K66,2.7,73,Khá tích cực
+SV20210679,Vũ An Trang,Kinh tế số,K64,3.5,69,Khá
+SV20210680,Hoàng Khánh Long,Công nghệ thông tin,K65,3.3,86,Khá
+SV20210681,Lê Phúc Vy,Công nghệ thông tin,K66,3.1,70,Khá tích cực
+SV20210682,Nguyễn Vy Bình,Công nghệ thông tin,K64,2.1,77,Cần cải thiện
+SV20210683,Nguyễn An Hương,Kỹ thuật dữ liệu,K65,3.1,92,Khá tích cực
+SV20210684,Hồ Ngọc Dũng,Công nghệ thông tin,K66,2.9,99,Khá tích cực
+SV20210685,Đỗ Giang Ngọc,Công nghệ thông tin,K64,3.3,111,Khá
+SV20210686,Bùi Minh Dũng,Kinh tế số,K65,2.7,83,Khá tích cực
+SV20210687,Lê Hân Hân,Công nghệ thông tin,K66,2.8,83,Khá tích cực
+SV20210688,Đặng Khánh Long,Kỹ thuật dữ liệu,K64,3.1,77,Khá tích cực
+SV20210689,Nguyễn Hà Vy,Công nghệ thông tin,K65,3.6,99,Xuất sắc
+SV20210690,Bùi Khánh Ngọc,Kỹ thuật dữ liệu,K66,3.0,77,Khá tích cực
+SV20210691,Phạm Dũng Khánh,Công nghệ thông tin,K64,3.7,109,Xuất sắc
+SV20210692,Vũ Dũng Dũng,Công nghệ thông tin,K65,1.7,47,Cần cải thiện
+SV20210693,Hồ Chi Ngọc,Kinh tế số,K66,2.2,86,Cần cải thiện
+SV20210694,Hồ Vy Bình,Công nghệ thông tin,K64,3.1,77,Khá tích cực
+SV20210695,Phạm Hải Hân,Công nghệ thông tin,K65,3.0,87,Khá tích cực
+SV20210696,Hoàng Hân Lan,Kỹ thuật dữ liệu,K66,2.7,72,Khá tích cực
+SV20210697,Phạm Minh Phúc,Công nghệ thông tin,K64,2.8,87,Khá tích cực
+SV20210698,Hồ Hương Ngọc,Kỹ thuật dữ liệu,K65,3.8,126,Xuất sắc
+SV20210699,Hồ Quân Hương,Kinh tế số,K66,2.9,90,Khá tích cực
+SV20210700,Hoàng Giang Phúc,Kinh tế số,K64,3.0,100,Khá tích cực
+SV20210701,Hoàng Chi Hà,Công nghệ thông tin,K65,2.5,76,Khá tích cực
+SV20210702,Lê Hân Hải,Kỹ thuật dữ liệu,K66,2.0,69,Cần cải thiện
+SV20210703,Phạm An An,Công nghệ thông tin,K64,3.0,101,Khá tích cực
+SV20210704,Trần Minh Bình,Công nghệ thông tin,K65,2.5,53,Khá tích cực
+SV20210705,Hoàng Phúc Trang,Công nghệ thông tin,K66,3.1,74,Khá tích cực
+SV20210706,Hồ Hân Giang,Kinh tế số,K64,2.0,38,Cần cải thiện
+SV20210707,Đỗ Minh Linh,Công nghệ thông tin,K65,3.6,123,Xuất sắc
+SV20210708,Hoàng Dũng Hương,Kinh tế số,K66,2.3,92,Cần cải thiện
+SV20210709,Hoàng Giang Minh,Công nghệ thông tin,K64,3.2,93,Khá
+SV20210710,Hồ Dũng Linh,Kinh tế số,K65,3.0,60,Khá tích cực
+SV20210711,Đỗ Trang Quân,Công nghệ thông tin,K66,1.3,33,Cần cải thiện
+SV20210712,Phạm Nam Hà,Kinh tế số,K64,2.4,56,Cần cải thiện
+SV20210713,Lê Chi Vy,Công nghệ thông tin,K65,3.1,91,Khá tích cực
+SV20210714,Đặng Hương Linh,Công nghệ thông tin,K66,2.9,40,Khá tích cực
+SV20210715,Vũ Ngọc Chi,Kinh tế số,K64,2.3,85,Cần cải thiện
+SV20210716,Trần Linh Trang,Kinh tế số,K65,2.6,62,Khá tích cực
+SV20210717,Hồ Linh Lan,Công nghệ thông tin,K66,2.8,93,Khá tích cực
+SV20210718,Vũ My Khánh,Công nghệ thông tin,K64,2.7,61,Khá tích cực
+SV20210719,Trần Giang Linh,Kinh tế số,K65,2.7,68,Khá tích cực
+SV20210720,Đỗ Vy Hải,Công nghệ thông tin,K66,1.9,62,Cần cải thiện
+SV20210721,Hồ My Giang,Công nghệ thông tin,K64,2.0,51,Cần cải thiện
+SV20210722,Phạm Long Lan,Kỹ thuật dữ liệu,K65,3.2,73,Khá
+SV20210723,Phạm An Lan,Kỹ thuật dữ liệu,K66,2.4,59,Cần cải thiện
+SV20210724,Hoàng My Bình,Công nghệ thông tin,K64,1.8,55,Cần cải thiện
+SV20210725,Đỗ Bình Dũng,Công nghệ thông tin,K65,3.0,118,Khá tích cực
+SV20210726,Đỗ Bình An,Kinh tế số,K66,2.4,67,Cần cải thiện
+SV20210727,Trần Phúc Phúc,Công nghệ thông tin,K64,3.3,116,Khá
+SV20210728,Đặng An Hân,Công nghệ thông tin,K65,2.5,53,Khá tích cực
+SV20210729,Nguyễn My Trang,Công nghệ thông tin,K66,2.4,59,Cần cải thiện
+SV20210730,Bùi Long Khánh,Công nghệ thông tin,K64,2.6,68,Khá tích cực
+SV20210731,Đặng Linh Vy,Công nghệ thông tin,K65,3.6,124,Xuất sắc
+SV20210732,Hoàng Lan Quân,Kỹ thuật dữ liệu,K66,3.3,105,Khá
+SV20210733,Lê Ngọc Lan,Kỹ thuật dữ liệu,K64,3.1,122,Khá tích cực
+SV20210734,Lê Khánh Long,Kỹ thuật dữ liệu,K65,2.7,74,Khá tích cực
+SV20210735,Hồ Hà Ngọc,Công nghệ thông tin,K66,3.4,132,Khá
+SV20210736,Phạm Khánh Minh,Kỹ thuật dữ liệu,K64,3.0,86,Khá tích cực
+SV20210737,Nguyễn Giang Ngọc,Công nghệ thông tin,K65,1.9,48,Cần cải thiện
+SV20210738,Lê My Lan,Công nghệ thông tin,K66,2.7,79,Khá tích cực
+SV20210739,Lê Bình Hải,Kỹ thuật dữ liệu,K64,3.2,80,Khá
+SV20210740,Lê Nam Dũng,Kinh tế số,K65,2.8,81,Khá tích cực
+SV20210741,Bùi Trang Linh,Kinh tế số,K66,3.0,99,Khá tích cực
+SV20210742,Bùi Bình Hà,Công nghệ thông tin,K64,2.5,54,Khá tích cực
+SV20210743,Bùi Hân Vy,Kỹ thuật dữ liệu,K65,4.0,132,Xuất sắc
+SV20210744,Vũ An Hà,Công nghệ thông tin,K66,2.9,56,Khá tích cực
+SV20210745,Hoàng Nam Hương,Kỹ thuật dữ liệu,K64,2.5,72,Khá tích cực
+SV20210746,Nguyễn Vy An,Công nghệ thông tin,K65,2.4,70,Cần cải thiện
+SV20210747,Nguyễn Bình Minh,Công nghệ thông tin,K66,2.1,53,Cần cải thiện
+SV20210748,Phạm Vy Hân,Công nghệ thông tin,K64,3.1,76,Khá tích cực
+SV20210749,Bùi Dũng Khánh,Kinh tế số,K65,2.1,81,Cần cải thiện
+SV20210750,Hoàng Minh Ngọc,Công nghệ thông tin,K66,3.2,86,Khá
+SV20210751,Đỗ Minh Hương,Công nghệ thông tin,K64,2.9,86,Khá tích cực
+SV20210752,Hoàng Minh Hải,Kinh tế số,K65,2.7,56,Khá tích cực
+SV20210753,Trần Quân An,Công nghệ thông tin,K66,2.2,39,Cần cải thiện
+SV20210754,Hoàng Quân Khánh,Kinh tế số,K64,3.0,118,Khá tích cực
+SV20210755,Phạm Hải Phúc,Công nghệ thông tin,K65,2.6,79,Khá tích cực
+SV20210756,Hoàng An An,Kinh tế số,K66,2.9,78,Khá tích cực
+SV20210757,Phạm Chi Hải,Công nghệ thông tin,K64,2.9,107,Khá tích cực
+SV20210758,Vũ Trang Hương,Kinh tế số,K65,2.8,89,Khá tích cực
+SV20210759,Hoàng Khánh Hương,Công nghệ thông tin,K66,3.1,90,Khá tích cực
+SV20210760,Đỗ Bình Linh,Công nghệ thông tin,K64,3.8,132,Xuất sắc
+SV20210761,Phạm Hân Vy,Kỹ thuật dữ liệu,K65,2.6,75,Khá tích cực
+SV20210762,Lê Hương Hân,Công nghệ thông tin,K66,2.8,77,Khá tích cực
+SV20210763,Đặng Quân Vy,Công nghệ thông tin,K64,2.7,76,Khá tích cực
+SV20210764,Hoàng Lan Lan,Kỹ thuật dữ liệu,K65,2.3,53,Cần cải thiện
+SV20210765,Hồ Khánh Ngọc,Công nghệ thông tin,K66,1.9,88,Cần cải thiện
+SV20210766,Hồ Long Hà,Công nghệ thông tin,K64,1.9,69,Cần cải thiện
+SV20210767,Bùi Phúc Quân,Công nghệ thông tin,K65,2.6,94,Khá tích cực
+SV20210768,Đặng Minh Khánh,Kinh tế số,K66,2.3,82,Cần cải thiện
+SV20210769,Phạm Giang An,Công nghệ thông tin,K64,2.5,89,Khá tích cực
+SV20210770,Hoàng Chi Hương,Công nghệ thông tin,K65,3.4,118,Khá
+SV20210771,Đỗ Trang Trang,Kinh tế số,K66,3.2,108,Khá
+SV20210772,Hồ Chi Hương,Kinh tế số,K64,2.3,71,Cần cải thiện
+SV20210773,Trần Phúc Hân,Công nghệ thông tin,K65,2.9,56,Khá tích cực
+SV20210774,Lê Vy My,Công nghệ thông tin,K66,2.5,61,Khá tích cực
+SV20210775,Đặng Dũng Giang,Công nghệ thông tin,K64,3.2,99,Khá
+SV20210776,Lê Hân My,Công nghệ thông tin,K65,2.3,39,Cần cải thiện
+SV20210777,Hồ Vy Hương,Công nghệ thông tin,K66,2.8,86,Khá tích cực
+SV20210778,Hoàng Lan Hân,Công nghệ thông tin,K64,1.9,61,Cần cải thiện
+SV20210779,Đỗ Minh Giang,Công nghệ thông tin,K65,2.6,88,Khá tích cực
+SV20210780,Phạm Hương Dũng,Kỹ thuật dữ liệu,K66,2.2,77,Cần cải thiện
+SV20210781,Lê Dũng My,Công nghệ thông tin,K64,3.7,117,Xuất sắc
+SV20210782,Phạm Quân Hân,Công nghệ thông tin,K65,2.7,93,Khá tích cực
+SV20210783,Hồ Minh Trang,Kinh tế số,K66,2.5,67,Khá tích cực
+SV20210784,Trần Khánh Bình,Công nghệ thông tin,K64,2.5,48,Khá tích cực
+SV20210785,Phạm Bình Quân,Kinh tế số,K65,2.5,77,Khá tích cực
+SV20210786,Hồ Giang Ngọc,Công nghệ thông tin,K66,3.6,112,Xuất sắc
+SV20210787,Trần Linh Hân,Công nghệ thông tin,K64,2.9,85,Khá tích cực
+SV20210788,Đặng Phúc Long,Công nghệ thông tin,K65,3.1,86,Khá tích cực
+SV20210789,Đặng Chi Hân,Kỹ thuật dữ liệu,K66,2.8,92,Khá tích cực
+SV20210790,Hồ Hương Phúc,Kỹ thuật dữ liệu,K64,3.2,77,Khá
+SV20210791,Vũ Linh Ngọc,Kỹ thuật dữ liệu,K65,2.4,83,Cần cải thiện
+SV20210792,Hồ Dũng Hà,Công nghệ thông tin,K66,2.4,94,Cần cải thiện
+SV20210793,Trần Chi Hân,Kinh tế số,K64,2.6,96,Khá tích cực
+SV20210794,Nguyễn Hải Ngọc,Công nghệ thông tin,K65,2.2,67,Cần cải thiện
+SV20210795,Lê Ngọc My,Kinh tế số,K66,2.6,42,Khá tích cực
+SV20210796,Bùi An Ngọc,Công nghệ thông tin,K64,3.4,94,Khá
+SV20210797,Bùi Vy Phúc,Kinh tế số,K65,2.6,74,Khá tích cực
+SV20210798,Đỗ Ngọc Long,Kỹ thuật dữ liệu,K66,3.3,91,Khá
+SV20210799,Trần My Phúc,Kinh tế số,K64,2.2,75,Cần cải thiện
+SV20210800,Bùi Hân Bình,Kỹ thuật dữ liệu,K65,3.0,71,Khá tích cực
+SV20210801,Đỗ Quân Chi,Công nghệ thông tin,K66,1.8,28,Cần cải thiện
+SV20210802,Trần Bình Giang,Công nghệ thông tin,K64,3.5,116,Khá
+SV20210803,Phạm Hải Hải,Công nghệ thông tin,K65,2.2,85,Cần cải thiện
+SV20210804,Hồ Bình Long,Công nghệ thông tin,K66,2.4,67,Cần cải thiện
+SV20210805,Hoàng An Hải,Công nghệ thông tin,K64,3.2,88,Khá
+SV20210806,Vũ Hải Lan,Công nghệ thông tin,K65,2.2,61,Cần cải thiện
+SV20210807,Trần Ngọc Phúc,Kinh tế số,K66,2.2,41,Cần cải thiện
+SV20210808,Nguyễn Chi An,Công nghệ thông tin,K64,2.9,88,Khá tích cực
+SV20210809,Phạm Long My,Kinh tế số,K65,3.3,79,Khá
+SV20210810,Hồ Dũng Giang,Kỹ thuật dữ liệu,K66,2.8,72,Khá tích cực
+SV20210811,Bùi Minh Ngọc,Kỹ thuật dữ liệu,K64,2.6,101,Khá tích cực
+SV20210812,Phạm Giang Long,Công nghệ thông tin,K65,2.9,92,Khá tích cực
+SV20210813,Vũ Quân Khánh,Công nghệ thông tin,K66,2.5,70,Khá tích cực
+SV20210814,Lê Vy Vy,Công nghệ thông tin,K64,2.9,86,Khá tích cực
+SV20210815,Trần Hân Hương,Công nghệ thông tin,K65,2.2,56,Cần cải thiện
+SV20210816,Trần Bình Hương,Công nghệ thông tin,K66,3.3,109,Khá
+SV20210817,Đỗ Phúc Quân,Kinh tế số,K64,3.0,103,Khá tích cực
+SV20210818,Đỗ Hương Bình,Kỹ thuật dữ liệu,K65,2.3,95,Cần cải thiện
+SV20210819,Đặng Dũng Long,Công nghệ thông tin,K66,2.8,97,Khá tích cực
+SV20210820,Đặng Quân Hà,Công nghệ thông tin,K64,2.6,75,Khá tích cực
+SV20210821,Lê Vy My,Kỹ thuật dữ liệu,K65,2.1,54,Cần cải thiện
+SV20210822,Lê Giang An,Kinh tế số,K66,2.8,75,Khá tích cực
+SV20210823,Phạm Nam An,Kinh tế số,K64,2.0,66,Cần cải thiện
+SV20210824,Lê Khánh Quân,Công nghệ thông tin,K65,2.4,60,Cần cải thiện
+SV20210825,Hoàng An Hân,Công nghệ thông tin,K66,2.7,81,Khá tích cực
+SV20210826,Trần Ngọc Vy,Kỹ thuật dữ liệu,K64,2.9,94,Khá tích cực
+SV20210827,Nguyễn Vy Khánh,Công nghệ thông tin,K65,2.9,93,Khá tích cực
+SV20210828,Bùi Giang Phúc,Công nghệ thông tin,K66,3.3,80,Khá
+SV20210829,Phạm Nam Minh,Kinh tế số,K64,3.8,123,Xuất sắc
+SV20210830,Vũ Hương Hải,Kỹ thuật dữ liệu,K65,3.1,120,Khá tích cực
+SV20210831,Phạm Vy Khánh,Kinh tế số,K66,2.6,74,Khá tích cực
+SV20210832,Trần Lan Nam,Công nghệ thông tin,K64,2.5,81,Khá tích cực
+SV20210833,Vũ Dũng Vy,Kinh tế số,K65,2.9,81,Khá tích cực
+SV20210834,Lê Dũng Minh,Kinh tế số,K66,2.6,67,Khá tích cực
+SV20210835,Vũ Linh Quân,Kinh tế số,K64,2.3,69,Cần cải thiện
+SV20210836,Hoàng Giang Ngọc,Kỹ thuật dữ liệu,K65,2.9,72,Khá tích cực
+SV20210837,Trần Quân Bình,Kinh tế số,K66,2.8,68,Khá tích cực
+SV20210838,Hồ Giang Lan,Kỹ thuật dữ liệu,K64,2.6,82,Khá tích cực
+SV20210839,Nguyễn Hà Hương,Công nghệ thông tin,K65,2.9,104,Khá tích cực
+SV20210840,Lê Long Minh,Kỹ thuật dữ liệu,K66,2.3,57,Cần cải thiện
+SV20210841,Hoàng Lan Ngọc,Công nghệ thông tin,K64,1.7,42,Cần cải thiện
+SV20210842,Lê Vy Linh,Kinh tế số,K65,2.0,55,Cần cải thiện
+SV20210843,Bùi Minh Hải,Kỹ thuật dữ liệu,K66,2.6,58,Khá tích cực
+SV20210844,Hoàng Chi Vy,Công nghệ thông tin,K64,3.6,124,Xuất sắc
+SV20210845,Bùi Hà Hương,Kỹ thuật dữ liệu,K65,1.8,61,Cần cải thiện
+SV20210846,Hoàng Hân Hân,Kỹ thuật dữ liệu,K66,1.3,37,Cần cải thiện
+SV20210847,Đỗ Chi An,Công nghệ thông tin,K64,2.2,75,Cần cải thiện
+SV20210848,Hồ Bình Giang,Kỹ thuật dữ liệu,K65,3.3,105,Khá
+SV20210849,Hồ Giang Quân,Công nghệ thông tin,K66,2.3,37,Cần cải thiện
+SV20210850,Đặng Dũng My,Công nghệ thông tin,K64,2.3,43,Cần cải thiện
+SV20210851,Vũ Quân Ngọc,Công nghệ thông tin,K65,3.0,88,Khá tích cực
+SV20210852,Đỗ Linh Phúc,Kinh tế số,K66,2.6,60,Khá tích cực
+SV20210853,Nguyễn An Lan,Công nghệ thông tin,K64,2.9,76,Khá tích cực
+SV20210854,Hoàng Chi Nam,Công nghệ thông tin,K65,2.4,42,Cần cải thiện
+SV20210855,Nguyễn Linh An,Công nghệ thông tin,K66,2.3,57,Cần cải thiện
+SV20210856,Phạm Trang Long,Kỹ thuật dữ liệu,K64,1.9,37,Cần cải thiện
+SV20210857,Đỗ Vy Bình,Kỹ thuật dữ liệu,K65,2.4,100,Cần cải thiện
+SV20210858,Lê Hân Khánh,Kỹ thuật dữ liệu,K66,3.1,69,Khá tích cực
+SV20210859,Vũ Hải Ngọc,Kỹ thuật dữ liệu,K64,2.4,67,Cần cải thiện
+SV20210860,Phạm Trang Hân,Kỹ thuật dữ liệu,K65,2.8,62,Khá tích cực
+SV20210861,Hoàng My Quân,Công nghệ thông tin,K66,3.3,85,Khá
+SV20210862,Lê Dũng Phúc,Kỹ thuật dữ liệu,K64,2.4,77,Cần cải thiện
+SV20210863,Hồ Dũng Ngọc,Công nghệ thông tin,K65,1.9,51,Cần cải thiện
+SV20210864,Vũ Hải Bình,Công nghệ thông tin,K66,2.3,52,Cần cải thiện
+SV20210865,Phạm Nam Minh,Kinh tế số,K64,3.1,92,Khá tích cực
+SV20210866,Đặng Lan Ngọc,Công nghệ thông tin,K65,3.0,114,Khá tích cực
+SV20210867,Lê Bình My,Công nghệ thông tin,K66,2.5,83,Khá tích cực
+SV20210868,Hoàng My Bình,Kỹ thuật dữ liệu,K64,2.6,99,Khá tích cực
+SV20210869,Phạm Quân Phúc,Kinh tế số,K65,3.2,102,Khá
+SV20210870,Trần Hà Long,Công nghệ thông tin,K66,2.2,38,Cần cải thiện
+SV20210871,Đặng Phúc Linh,Công nghệ thông tin,K64,2.3,65,Cần cải thiện
+SV20210872,Đỗ Nam Dũng,Công nghệ thông tin,K65,2.6,59,Khá tích cực
+SV20210873,Hồ My Trang,Công nghệ thông tin,K66,2.2,59,Cần cải thiện
+SV20210874,Đỗ Hương Minh,Công nghệ thông tin,K64,2.5,66,Khá tích cực
+SV20210875,Lê Bình Khánh,Kinh tế số,K65,2.0,62,Cần cải thiện
+SV20210876,Hoàng Long Phúc,Công nghệ thông tin,K66,3.8,82,Xuất sắc
+SV20210877,Nguyễn Quân Giang,Công nghệ thông tin,K64,2.9,66,Khá tích cực
+SV20210878,Hoàng An Nam,Kỹ thuật dữ liệu,K65,3.4,111,Khá
+SV20210879,Nguyễn Phúc Hà,Kinh tế số,K66,3.2,101,Khá
+SV20210880,Bùi Hà Giang,Công nghệ thông tin,K64,1.6,40,Cần cải thiện
+SV20210881,Đặng Bình Nam,Kinh tế số,K65,3.2,72,Khá
+SV20210882,Đặng Dũng Hà,Công nghệ thông tin,K66,3.2,106,Khá
+SV20210883,Nguyễn Chi Khánh,Công nghệ thông tin,K64,2.8,86,Khá tích cực
+SV20210884,Đỗ Nam Bình,Kinh tế số,K65,2.3,79,Cần cải thiện
+SV20210885,Phạm Hải Ngọc,Công nghệ thông tin,K66,2.9,101,Khá tích cực
+SV20210886,Đặng Khánh Long,Công nghệ thông tin,K64,1.4,28,Cần cải thiện
+SV20210887,Đặng Nam Hân,Kỹ thuật dữ liệu,K65,2.1,87,Cần cải thiện
+SV20210888,Bùi Chi Hân,Công nghệ thông tin,K66,3.3,119,Khá
+SV20210889,Bùi An Lan,Công nghệ thông tin,K64,2.1,65,Cần cải thiện
+SV20210890,Hồ Dũng Chi,Công nghệ thông tin,K65,3.1,87,Khá tích cực
+SV20210891,Lê Vy An,Công nghệ thông tin,K66,2.1,67,Cần cải thiện
+SV20210892,Trần Ngọc Hương,Kinh tế số,K64,2.4,53,Cần cải thiện
+SV20210893,Đặng Bình Hải,Công nghệ thông tin,K65,3.3,98,Khá
+SV20210894,Vũ Linh My,Công nghệ thông tin,K66,2.7,70,Khá tích cực
+SV20210895,Bùi Giang Phúc,Công nghệ thông tin,K64,2.5,73,Khá tích cực
+SV20210896,Nguyễn Hân Vy,Công nghệ thông tin,K65,3.0,98,Khá tích cực
+SV20210897,Nguyễn Giang Giang,Kinh tế số,K66,2.0,46,Cần cải thiện
+SV20210898,Phạm Chi Ngọc,Công nghệ thông tin,K64,1.8,34,Cần cải thiện
+SV20210899,Vũ Bình Long,Kỹ thuật dữ liệu,K65,3.8,113,Xuất sắc
+SV20210900,Đặng Bình Giang,Công nghệ thông tin,K66,2.0,56,Cần cải thiện
+SV20210901,Đỗ Phúc Minh,Kinh tế số,K64,3.5,107,Khá
+SV20210902,Đỗ Dũng Long,Kỹ thuật dữ liệu,K65,2.9,89,Khá tích cực
+SV20210903,Bùi Hương Hải,Công nghệ thông tin,K66,2.1,85,Cần cải thiện
+SV20210904,Trần Chi Linh,Kỹ thuật dữ liệu,K64,2.7,84,Khá tích cực
+SV20210905,Đặng Khánh Phúc,Công nghệ thông tin,K65,2.0,64,Cần cải thiện
+SV20210906,Đặng Hân My,Công nghệ thông tin,K66,3.6,97,Xuất sắc
+SV20210907,Hồ Hương Trang,Công nghệ thông tin,K64,2.1,65,Cần cải thiện
+SV20210908,Hồ Ngọc Giang,Công nghệ thông tin,K65,2.6,77,Khá tích cực
+SV20210909,Vũ Giang Quân,Công nghệ thông tin,K66,3.1,76,Khá tích cực
+SV20210910,Lê Minh Bình,Công nghệ thông tin,K64,2.3,47,Cần cải thiện
+SV20210911,Hồ Phúc Nam,Công nghệ thông tin,K65,2.8,79,Khá tích cực
+SV20210912,Đỗ Hân Nam,Kinh tế số,K66,2.0,56,Cần cải thiện
+SV20210913,Trần Dũng Chi,Kỹ thuật dữ liệu,K64,3.4,77,Khá
+SV20210914,Nguyễn Khánh Giang,Công nghệ thông tin,K65,2.0,62,Cần cải thiện
+SV20210915,Lê Trang Lan,Công nghệ thông tin,K66,2.8,69,Khá tích cực
+SV20210916,Hồ My Hải,Kỹ thuật dữ liệu,K64,2.8,82,Khá tích cực
+SV20210917,Đặng Quân My,Kỹ thuật dữ liệu,K65,2.5,65,Khá tích cực
+SV20210918,Vũ Minh My,Công nghệ thông tin,K66,3.0,86,Khá tích cực
+SV20210919,Lê Giang Minh,Công nghệ thông tin,K64,2.5,58,Khá tích cực
+SV20210920,Bùi An Quân,Công nghệ thông tin,K65,3.2,104,Khá
+SV20210921,Bùi Quân My,Công nghệ thông tin,K66,2.6,81,Khá tích cực
+SV20210922,Bùi Dũng My,Công nghệ thông tin,K64,2.5,106,Khá tích cực
+SV20210923,Nguyễn Long Minh,Công nghệ thông tin,K65,2.0,55,Cần cải thiện
+SV20210924,Vũ My Dũng,Công nghệ thông tin,K66,2.5,46,Khá tích cực
+SV20210925,Lê Chi Nam,Công nghệ thông tin,K64,3.3,97,Khá
+SV20210926,Trần Vy Ngọc,Kỹ thuật dữ liệu,K65,2.5,100,Khá tích cực
+SV20210927,Trần Lan Ngọc,Kinh tế số,K66,2.1,58,Cần cải thiện
+SV20210928,Nguyễn Bình Hân,Công nghệ thông tin,K64,2.8,121,Khá tích cực
+SV20210929,Lê Long Chi,Kinh tế số,K65,2.3,49,Cần cải thiện
+SV20210930,Hồ My Hải,Kinh tế số,K66,2.9,83,Khá tích cực
+SV20210931,Hồ Hương Lan,Công nghệ thông tin,K64,1.6,28,Cần cải thiện
+SV20210932,Hồ Linh Vy,Công nghệ thông tin,K65,2.6,80,Khá tích cực
+SV20210933,Bùi An Ngọc,Công nghệ thông tin,K66,2.7,132,Khá tích cực
+SV20210934,Trần Bình Quân,Công nghệ thông tin,K64,2.6,90,Khá tích cực
+SV20210935,Hoàng Dũng Phúc,Công nghệ thông tin,K65,3.1,98,Khá tích cực
+SV20210936,Hồ Hân Dũng,Công nghệ thông tin,K66,3.2,126,Khá
+SV20210937,Vũ Long Dũng,Kinh tế số,K64,2.8,111,Khá tích cực
+SV20210938,Trần Lan Quân,Kỹ thuật dữ liệu,K65,2.6,78,Khá tích cực
+SV20210939,Vũ Ngọc Bình,Kỹ thuật dữ liệu,K66,2.5,99,Khá tích cực
+SV20210940,Đỗ Minh Khánh,Công nghệ thông tin,K64,3.5,107,Khá
+SV20210941,Bùi Trang Trang,Công nghệ thông tin,K65,3.3,84,Khá
+SV20210942,Nguyễn Hà Trang,Kỹ thuật dữ liệu,K66,2.3,64,Cần cải thiện
+SV20210943,Đặng My Hà,Công nghệ thông tin,K64,1.9,59,Cần cải thiện
+SV20210944,Bùi Bình Trang,Kinh tế số,K65,2.0,34,Cần cải thiện
+SV20210945,Đỗ Hải Hương,Công nghệ thông tin,K66,3.0,106,Khá tích cực
+SV20210946,Đỗ Bình Chi,Kỹ thuật dữ liệu,K64,3.4,121,Khá
+SV20210947,Đặng Bình Minh,Công nghệ thông tin,K65,2.6,60,Khá tích cực
+SV20210948,Bùi Bình Lan,Kinh tế số,K66,2.8,79,Khá tích cực
+SV20210949,Đặng Vy Quân,Công nghệ thông tin,K64,3.2,99,Khá
+SV20210950,Vũ An An,Kinh tế số,K65,3.2,114,Khá
+SV20210951,Phạm Hương Dũng,Công nghệ thông tin,K66,2.3,80,Cần cải thiện
+SV20210952,Đỗ Quân My,Kinh tế số,K64,1.7,28,Cần cải thiện
+SV20210953,Hồ Trang Lan,Kinh tế số,K65,2.2,65,Cần cải thiện
+SV20210954,Hoàng Khánh Long,Công nghệ thông tin,K66,2.3,56,Cần cải thiện
+SV20210955,Hồ Trang Minh,Kinh tế số,K64,3.0,95,Khá tích cực
+SV20210956,Đặng Chi Trang,Kỹ thuật dữ liệu,K65,3.0,47,Khá tích cực
+SV20210957,Vũ Hương Nam,Công nghệ thông tin,K66,2.7,83,Khá tích cực
+SV20210958,Đỗ Khánh Phúc,Công nghệ thông tin,K64,3.7,99,Xuất sắc
+SV20210959,Bùi Khánh Hân,Kỹ thuật dữ liệu,K65,2.4,85,Cần cải thiện
+SV20210960,Hoàng Phúc Hân,Kinh tế số,K66,2.6,76,Khá tích cực
+SV20210961,Trần Nam Giang,Công nghệ thông tin,K64,3.4,89,Khá
+SV20210962,Phạm Chi Dũng,Kinh tế số,K65,2.3,65,Cần cải thiện
+SV20210963,Đỗ Hân Ngọc,Kỹ thuật dữ liệu,K66,2.9,86,Khá tích cực
+SV20210964,Vũ Giang Bình,Công nghệ thông tin,K64,2.5,47,Khá tích cực
+SV20210965,Bùi Quân My,Công nghệ thông tin,K65,2.9,92,Khá tích cực
+SV20210966,Phạm Dũng Bình,Công nghệ thông tin,K66,2.5,52,Khá tích cực
+SV20210967,Đỗ Chi Hà,Kỹ thuật dữ liệu,K64,1.6,28,Cần cải thiện
+SV20210968,Phạm Khánh Hà,Kinh tế số,K65,2.3,84,Cần cải thiện
+SV20210969,Hoàng Hương Chi,Công nghệ thông tin,K66,2.7,75,Khá tích cực
+SV20210970,Trần Vy Dũng,Công nghệ thông tin,K64,3.1,108,Khá tích cực
+SV20210971,Hồ Giang Hương,Kinh tế số,K65,2.2,81,Cần cải thiện
+SV20210972,Bùi Long Giang,Kỹ thuật dữ liệu,K66,3.1,81,Khá tích cực
+SV20210973,Phạm Nam Minh,Công nghệ thông tin,K64,2.3,105,Cần cải thiện
+SV20210974,Hồ Phúc Lan,Công nghệ thông tin,K65,2.8,101,Khá tích cực
+SV20210975,Đỗ Linh Nam,Kỹ thuật dữ liệu,K66,2.5,87,Khá tích cực
+SV20210976,Lê Bình Bình,Kinh tế số,K64,1.9,43,Cần cải thiện
+SV20210977,Nguyễn Giang Minh,Công nghệ thông tin,K65,2.9,97,Khá tích cực
+SV20210978,Đặng Chi Dũng,Công nghệ thông tin,K66,3.1,84,Khá tích cực
+SV20210979,Vũ Khánh Bình,Kỹ thuật dữ liệu,K64,2.7,73,Khá tích cực
+SV20210980,Vũ Trang Nam,Kỹ thuật dữ liệu,K65,2.9,70,Khá tích cực
+SV20210981,Đặng Chi My,Công nghệ thông tin,K66,2.9,110,Khá tích cực
+SV20210982,Đỗ Quân Vy,Kỹ thuật dữ liệu,K64,3.5,108,Khá
+SV20210983,Nguyễn My Hương,Công nghệ thông tin,K65,2.7,90,Khá tích cực
+SV20210984,Đặng Chi Hân,Kinh tế số,K66,3.8,94,Xuất sắc
+SV20210985,Đỗ Chi Vy,Công nghệ thông tin,K64,2.6,103,Khá tích cực
+SV20210986,Bùi Long My,Kỹ thuật dữ liệu,K65,2.8,83,Khá tích cực
+SV20210987,Đặng Khánh Long,Công nghệ thông tin,K66,3.5,87,Khá
+SV20210988,Đỗ Lan My,Công nghệ thông tin,K64,2.9,43,Khá tích cực
+SV20210989,Phạm Vy Phúc,Kỹ thuật dữ liệu,K65,2.6,79,Khá tích cực
+SV20210990,Bùi Dũng Hà,Kinh tế số,K66,2.3,81,Cần cải thiện
+SV20210991,Phạm Khánh Ngọc,Kinh tế số,K64,2.9,98,Khá tích cực
+SV20210992,Hoàng Ngọc Vy,Kinh tế số,K65,3.1,111,Khá tích cực
+SV20210993,Nguyễn Dũng Quân,Công nghệ thông tin,K66,2.5,61,Khá tích cực
+SV20210994,Bùi Quân Dũng,Kinh tế số,K64,2.5,83,Khá tích cực
+SV20210995,Hồ Giang Trang,Công nghệ thông tin,K65,3.1,85,Khá tích cực
+SV20210996,Đặng Phúc Chi,Kinh tế số,K66,2.9,87,Khá tích cực
+SV20210997,Đặng Lan Long,Kỹ thuật dữ liệu,K64,2.6,67,Khá tích cực
+SV20210998,Bùi Bình Hải,Kỹ thuật dữ liệu,K65,2.5,76,Khá tích cực
+SV20210999,Bùi An Ngọc,Công nghệ thông tin,K66,3.7,124,Xuất sắc
+SV20211000,Hồ Hân Long,Công nghệ thông tin,K64,2.0,43,Cần cải thiện
+SV20211001,Vũ Dũng Linh,Công nghệ thông tin,K65,3.3,91,Khá
+SV20211002,Hồ My Hương,Công nghệ thông tin,K66,3.1,75,Khá tích cực
+SV20211003,Phạm Minh Vy,Kinh tế số,K64,3.9,126,Xuất sắc
+SV20211004,Bùi Khánh Dũng,Công nghệ thông tin,K65,2.6,79,Khá tích cực
+SV20211005,Phạm Khánh Vy,Kinh tế số,K66,2.2,51,Cần cải thiện
+SV20211006,Hoàng Giang Quân,Công nghệ thông tin,K64,3.8,125,Xuất sắc
+SV20211007,Nguyễn Hương Phúc,Công nghệ thông tin,K65,2.8,57,Khá tích cực
+SV20211008,Nguyễn Lan Nam,Kinh tế số,K66,2.5,82,Khá tích cực
+SV20211009,Hoàng Lan Chi,Công nghệ thông tin,K64,2.7,115,Khá tích cực
+SV20211010,Phạm Chi An,Kỹ thuật dữ liệu,K65,1.6,28,Cần cải thiện
+SV20211011,Trần Trang An,Kinh tế số,K66,2.2,66,Cần cải thiện
+SV20211012,Hồ Linh Hải,Công nghệ thông tin,K64,2.4,85,Cần cải thiện
+SV20211013,Phạm Minh Hải,Công nghệ thông tin,K65,2.4,73,Cần cải thiện
+SV20211014,Đặng Nam Hải,Công nghệ thông tin,K66,2.4,87,Cần cải thiện
+SV20211015,Đỗ An Quân,Kinh tế số,K64,1.8,55,Cần cải thiện
+SV20211016,Hoàng Khánh Vy,Công nghệ thông tin,K65,2.2,99,Cần cải thiện
+SV20211017,Bùi Chi Khánh,Công nghệ thông tin,K66,2.0,74,Cần cải thiện
+SV20211018,Đỗ Quân Linh,Công nghệ thông tin,K64,3.8,114,Xuất sắc
+SV20211019,Trần Hương Nam,Công nghệ thông tin,K65,3.2,100,Khá
+SV20211020,Phạm An An,Kỹ thuật dữ liệu,K66,2.9,99,Khá tích cực
+SV20211021,Nguyễn Khánh Chi,Kinh tế số,K64,3.2,115,Khá
+SV20211022,Nguyễn An Hà,Kinh tế số,K65,1.8,55,Cần cải thiện
+SV20211023,Vũ Vy Dũng,Công nghệ thông tin,K66,3.2,115,Khá
+SV20211024,Hồ Phúc Long,Công nghệ thông tin,K64,2.4,93,Cần cải thiện
+SV20211025,Nguyễn Phúc Quân,Công nghệ thông tin,K65,2.6,94,Khá tích cực
+SV20211026,Hoàng Bình Long,Kinh tế số,K66,3.3,73,Khá
+SV20211027,Nguyễn Giang Hân,Công nghệ thông tin,K64,3.3,81,Khá
+SV20211028,Nguyễn Khánh Dũng,Công nghệ thông tin,K65,3.6,93,Xuất sắc
+SV20211029,Hồ Hà Dũng,Công nghệ thông tin,K66,1.6,39,Cần cải thiện
+SV20211030,Đặng Hân Hải,Công nghệ thông tin,K64,2.8,63,Khá tích cực
+SV20211031,Nguyễn Hà Hương,Công nghệ thông tin,K65,2.4,70,Cần cải thiện
+SV20211032,Đặng Trang My,Kinh tế số,K66,3.0,57,Khá tích cực
+SV20211033,Phạm Linh Nam,Công nghệ thông tin,K64,2.0,52,Cần cải thiện
+SV20211034,Lê Vy Lan,Kinh tế số,K65,2.9,85,Khá tích cực
+SV20211035,Phạm Nam Trang,Kinh tế số,K66,3.0,104,Khá tích cực
+SV20211036,Đặng Vy Ngọc,Công nghệ thông tin,K64,3.4,92,Khá
+SV20211037,Vũ Linh Lan,Kinh tế số,K65,3.7,104,Xuất sắc
+SV20211038,Đỗ Lan Minh,Kinh tế số,K66,2.1,28,Cần cải thiện
+SV20211039,Phạm My Linh,Công nghệ thông tin,K64,3.4,101,Khá
+SV20211040,Nguyễn Vy An,Kinh tế số,K65,2.6,97,Khá tích cực
+SV20211041,Bùi Long Giang,Công nghệ thông tin,K66,2.7,38,Khá tích cực
+SV20211042,Hồ My Vy,Công nghệ thông tin,K64,1.8,39,Cần cải thiện
+SV20211043,Hoàng Bình Chi,Công nghệ thông tin,K65,2.8,70,Khá tích cực
+SV20211044,Vũ Trang Lan,Kỹ thuật dữ liệu,K66,2.6,79,Khá tích cực
+SV20211045,Lê Hương Hải,Kỹ thuật dữ liệu,K64,3.0,63,Khá tích cực
+SV20211046,Hoàng Vy Ngọc,Công nghệ thông tin,K65,3.8,125,Xuất sắc
+SV20211047,Hoàng Hà Quân,Kinh tế số,K66,3.0,60,Khá tích cực
+SV20211048,Trần Linh Dũng,Kinh tế số,K64,3.8,116,Xuất sắc
+SV20211049,Nguyễn Bình Linh,Công nghệ thông tin,K65,3.0,92,Khá tích cực
+SV20211050,Đỗ Long Khánh,Công nghệ thông tin,K66,3.4,105,Khá
+SV20211051,Bùi Quân Hà,Công nghệ thông tin,K64,2.4,61,Cần cải thiện
+SV20211052,Hồ Ngọc Chi,Kinh tế số,K65,2.1,70,Cần cải thiện
+SV20211053,Hồ Phúc Giang,Kỹ thuật dữ liệu,K66,2.8,86,Khá tích cực
+SV20211054,Nguyễn Giang Ngọc,Công nghệ thông tin,K64,3.1,51,Khá tích cực
+SV20211055,Đặng Bình My,Công nghệ thông tin,K65,2.7,87,Khá tích cực
+SV20211056,Đỗ Dũng An,Công nghệ thông tin,K66,2.8,53,Khá tích cực
+SV20211057,Phạm Dũng Hân,Công nghệ thông tin,K64,2.4,99,Cần cải thiện
+SV20211058,Hoàng My Vy,Kinh tế số,K65,2.8,60,Khá tích cực
+SV20211059,Lê Chi Trang,Công nghệ thông tin,K66,3.8,132,Xuất sắc
+SV20211060,Vũ Hải Vy,Công nghệ thông tin,K64,3.0,121,Khá tích cực
+SV20211061,Trần Quân My,Công nghệ thông tin,K65,2.4,78,Cần cải thiện
+SV20211062,Phạm Giang Ngọc,Công nghệ thông tin,K66,2.3,62,Cần cải thiện
+SV20211063,Đặng Hà Trang,Công nghệ thông tin,K64,2.7,81,Khá tích cực
+SV20211064,Hồ An Hà,Công nghệ thông tin,K65,3.0,83,Khá tích cực
+SV20211065,Nguyễn Nam Lan,Công nghệ thông tin,K66,3.0,81,Khá tích cực
+SV20211066,Đặng Hà An,Kỹ thuật dữ liệu,K64,2.9,96,Khá tích cực
+SV20211067,Đặng Vy Dũng,Công nghệ thông tin,K65,3.1,92,Khá tích cực
+SV20211068,Nguyễn Bình Hương,Kỹ thuật dữ liệu,K66,2.0,72,Cần cải thiện
+SV20211069,Lê Linh Lan,Công nghệ thông tin,K64,2.7,74,Khá tích cực
+SV20211070,Bùi Khánh Khánh,Kinh tế số,K65,2.2,60,Cần cải thiện
+SV20211071,Đặng Dũng Linh,Kỹ thuật dữ liệu,K66,2.5,64,Khá tích cực
+SV20211072,Phạm Hân Lan,Kinh tế số,K64,2.6,83,Khá tích cực
+SV20211073,Hoàng Giang Hân,Kỹ thuật dữ liệu,K65,2.8,67,Khá tích cực
+SV20211074,Bùi Khánh Hân,Công nghệ thông tin,K66,2.5,75,Khá tích cực
+SV20211075,Nguyễn Dũng Khánh,Kỹ thuật dữ liệu,K64,2.0,69,Cần cải thiện
+SV20211076,Nguyễn Dũng Lan,Kinh tế số,K65,2.3,55,Cần cải thiện
+SV20211077,Phạm Giang Giang,Công nghệ thông tin,K66,2.7,81,Khá tích cực
+SV20211078,Hoàng My Bình,Kỹ thuật dữ liệu,K64,3.8,114,Xuất sắc
+SV20211079,Lê Long Quân,Kỹ thuật dữ liệu,K65,2.3,55,Cần cải thiện
+SV20211080,Hoàng Khánh Dũng,Công nghệ thông tin,K66,2.5,85,Khá tích cực
+SV20211081,Bùi Hải Linh,Công nghệ thông tin,K64,3.0,75,Khá tích cực
+SV20211082,Hồ Khánh Dũng,Công nghệ thông tin,K65,3.4,57,Khá
+SV20211083,Lê Linh Nam,Kinh tế số,K66,2.5,59,Khá tích cực
+SV20211084,Phạm Hương Hân,Công nghệ thông tin,K64,3.1,101,Khá tích cực
+SV20211085,Bùi Dũng Ngọc,Công nghệ thông tin,K65,3.4,120,Khá
+SV20211086,Phạm Quân Chi,Công nghệ thông tin,K66,2.3,28,Cần cải thiện
+SV20211087,Hồ Hương Chi,Kinh tế số,K64,3.0,91,Khá tích cực
+SV20211088,Bùi Vy An,Kỹ thuật dữ liệu,K65,2.8,79,Khá tích cực
+SV20211089,Đặng Trang My,Kỹ thuật dữ liệu,K66,2.7,82,Khá tích cực
+SV20211090,Bùi Bình Linh,Công nghệ thông tin,K64,2.1,47,Cần cải thiện
+SV20211091,Phạm Nam Long,Kỹ thuật dữ liệu,K65,3.0,94,Khá tích cực
+SV20211092,Trần Long Giang,Kỹ thuật dữ liệu,K66,2.6,63,Khá tích cực
+SV20211093,Trần Vy Linh,Công nghệ thông tin,K64,2.4,80,Cần cải thiện
+SV20211094,Vũ Bình Nam,Kỹ thuật dữ liệu,K65,3.0,99,Khá tích cực
+SV20211095,Phạm Trang Hà,Công nghệ thông tin,K66,3.8,93,Xuất sắc
+SV20211096,Nguyễn Giang Giang,Công nghệ thông tin,K64,1.9,47,Cần cải thiện
+SV20211097,Lê Ngọc Hà,Công nghệ thông tin,K65,2.6,54,Khá tích cực
+SV20211098,Phạm Khánh Ngọc,Kỹ thuật dữ liệu,K66,3.2,75,Khá
+SV20211099,Trần Minh Dũng,Kinh tế số,K64,2.8,110,Khá tích cực
+SV20211100,Hồ Trang Trang,Công nghệ thông tin,K65,2.8,89,Khá tích cực
+SV20211101,Hoàng Giang Dũng,Công nghệ thông tin,K66,3.1,89,Khá tích cực
+SV20211102,Đặng An Khánh,Công nghệ thông tin,K64,2.8,76,Khá tích cực
+SV20211103,Hoàng Phúc Hải,Công nghệ thông tin,K65,2.8,74,Khá tích cực
+SV20211104,Đặng Bình Chi,Công nghệ thông tin,K66,3.1,91,Khá tích cực
+SV20211105,Hoàng Phúc Hân,Kinh tế số,K64,2.3,58,Cần cải thiện
+SV20211106,Lê Linh Long,Công nghệ thông tin,K65,3.0,101,Khá tích cực
+SV20211107,Trần An My,Công nghệ thông tin,K66,2.6,52,Khá tích cực
+SV20211108,Đặng An Vy,Kinh tế số,K64,3.2,100,Khá
+SV20211109,Phạm Quân Bình,Công nghệ thông tin,K65,3.0,97,Khá tích cực
+SV20211110,Hoàng Linh Khánh,Kinh tế số,K66,3.0,96,Khá tích cực
+SV20211111,Đỗ Hải Nam,Công nghệ thông tin,K64,3.5,82,Khá
+SV20211112,Đặng Dũng Hân,Công nghệ thông tin,K65,2.5,73,Khá tích cực
+SV20211113,Đỗ Nam Vy,Kinh tế số,K66,3.2,84,Khá
+SV20211114,Hồ Quân Hà,Công nghệ thông tin,K64,3.6,104,Xuất sắc
+SV20211115,Đặng Giang Long,Công nghệ thông tin,K65,3.0,65,Khá tích cực
+SV20211116,Đặng Dũng Giang,Kinh tế số,K66,2.8,102,Khá tích cực
+SV20211117,Lê Dũng Vy,Kỹ thuật dữ liệu,K64,2.6,69,Khá tích cực
+SV20211118,Lê An Giang,Công nghệ thông tin,K65,3.5,120,Khá
+SV20211119,Phạm Ngọc Trang,Kinh tế số,K66,3.5,84,Khá
+SV20211120,Nguyễn My Phúc,Công nghệ thông tin,K64,2.4,65,Cần cải thiện
+SV20211121,Bùi Hân Hân,Kỹ thuật dữ liệu,K65,2.7,83,Khá tích cực
+SV20211122,Trần Nam Linh,Công nghệ thông tin,K66,2.1,57,Cần cải thiện
+SV20211123,Bùi Quân Giang,Kinh tế số,K64,2.2,65,Cần cải thiện
+SV20211124,Hoàng Hân Linh,Công nghệ thông tin,K65,2.3,79,Cần cải thiện
+SV20211125,Phạm Vy An,Công nghệ thông tin,K66,3.5,81,Khá
+SV20211126,Phạm Quân Phúc,Công nghệ thông tin,K64,2.3,64,Cần cải thiện
+SV20211127,Đặng Long Chi,Kinh tế số,K65,2.5,57,Khá tích cực
+SV20211128,Bùi Hà Hải,Công nghệ thông tin,K66,2.8,98,Khá tích cực
+SV20211129,Bùi Hân Hà,Công nghệ thông tin,K64,3.1,108,Khá tích cực
+SV20211130,Lê Trang Hương,Kỹ thuật dữ liệu,K65,2.4,38,Cần cải thiện
+SV20211131,Đỗ Khánh An,Công nghệ thông tin,K66,2.4,97,Cần cải thiện
+SV20211132,Nguyễn Chi Bình,Kinh tế số,K64,2.9,78,Khá tích cực
+SV20211133,Bùi Dũng Linh,Kinh tế số,K65,3.0,98,Khá tích cực
+SV20211134,Vũ Vy Quân,Công nghệ thông tin,K66,2.5,45,Khá tích cực
+SV20211135,Trần Hà Long,Công nghệ thông tin,K64,2.8,76,Khá tích cực
+SV20211136,Vũ Giang Hương,Công nghệ thông tin,K65,2.9,63,Khá tích cực
+SV20211137,Bùi Hương Hải,Công nghệ thông tin,K66,3.1,90,Khá tích cực
+SV20211138,Trần Lan Ngọc,Kinh tế số,K64,2.3,67,Cần cải thiện
+SV20211139,Vũ Hân Bình,Kinh tế số,K65,2.7,116,Khá tích cực
+SV20211140,Đặng Linh My,Công nghệ thông tin,K66,2.7,81,Khá tích cực
+SV20211141,Nguyễn Bình Giang,Công nghệ thông tin,K64,2.8,90,Khá tích cực
+SV20211142,Đỗ An Hải,Công nghệ thông tin,K65,2.7,62,Khá tích cực
+SV20211143,Hồ Hương Phúc,Kinh tế số,K66,2.7,88,Khá tích cực
+SV20211144,Hồ Quân Hân,Công nghệ thông tin,K64,3.3,86,Khá
+SV20211145,Bùi Vy Hà,Kinh tế số,K65,2.9,87,Khá tích cực
+SV20211146,Trần My Ngọc,Công nghệ thông tin,K66,2.7,60,Khá tích cực
+SV20211147,Hoàng Linh Quân,Kinh tế số,K64,1.9,44,Cần cải thiện
+SV20211148,Lê Linh Khánh,Công nghệ thông tin,K65,3.2,91,Khá
+SV20211149,Hồ Khánh Dũng,Kinh tế số,K66,3.1,95,Khá tích cực
+SV20211150,Bùi My Long,Công nghệ thông tin,K64,2.2,75,Cần cải thiện
+SV20211151,Bùi Nam Ngọc,Công nghệ thông tin,K65,2.7,100,Khá tích cực
+SV20211152,Bùi Nam Nam,Kỹ thuật dữ liệu,K66,2.3,78,Cần cải thiện
+SV20211153,Hoàng Linh Long,Công nghệ thông tin,K64,3.7,125,Xuất sắc
+SV20211154,Nguyễn Khánh An,Công nghệ thông tin,K65,2.8,108,Khá tích cực
+SV20211155,Lê Giang Lan,Công nghệ thông tin,K66,2.7,86,Khá tích cực
+SV20211156,Đỗ Minh Trang,Công nghệ thông tin,K64,2.5,64,Khá tích cực
+SV20211157,Vũ My Long,Kinh tế số,K65,3.2,108,Khá
+SV20211158,Phạm Trang Lan,Kinh tế số,K66,3.9,108,Xuất sắc
+SV20211159,Phạm Hải Lan,Kinh tế số,K64,2.8,72,Khá tích cực
+SV20211160,Đỗ My Hải,Công nghệ thông tin,K65,2.6,93,Khá tích cực
+SV20211161,Vũ Minh Linh,Công nghệ thông tin,K66,1.8,54,Cần cải thiện
+SV20211162,Lê Chi Quân,Kỹ thuật dữ liệu,K64,2.9,110,Khá tích cực
+SV20211163,Đặng Giang Hân,Công nghệ thông tin,K65,2.9,80,Khá tích cực
+SV20211164,Bùi Trang Vy,Công nghệ thông tin,K66,2.8,59,Khá tích cực
+SV20211165,Trần Trang Hà,Kỹ thuật dữ liệu,K64,3.0,103,Khá tích cực
+SV20211166,Phạm Hải Hà,Công nghệ thông tin,K65,2.4,100,Cần cải thiện
+SV20211167,Nguyễn Chi Dũng,Kinh tế số,K66,3.1,80,Khá tích cực
+SV20211168,Hoàng Long Hân,Công nghệ thông tin,K64,3.2,89,Khá
+SV20211169,Nguyễn Chi Hải,Công nghệ thông tin,K65,2.1,80,Cần cải thiện
+SV20211170,Hồ An Long,Công nghệ thông tin,K66,1.7,54,Cần cải thiện
+SV20211171,Vũ Hương Phúc,Kỹ thuật dữ liệu,K64,2.9,90,Khá tích cực
+SV20211172,Vũ Quân Giang,Kinh tế số,K65,3.1,69,Khá tích cực
+SV20211173,Hồ An Vy,Công nghệ thông tin,K66,2.9,87,Khá tích cực
+SV20211174,Nguyễn Chi An,Kỹ thuật dữ liệu,K64,2.1,89,Cần cải thiện
+SV20211175,Nguyễn Quân Hà,Kỹ thuật dữ liệu,K65,2.5,82,Khá tích cực
+SV20211176,Đặng Bình Nam,Kinh tế số,K66,3.6,77,Xuất sắc
+SV20211177,Đỗ Minh Khánh,Công nghệ thông tin,K64,3.0,100,Khá tích cực
+SV20211178,Phạm Hải Chi,Công nghệ thông tin,K65,2.9,96,Khá tích cực
+SV20211179,Nguyễn Minh Quân,Công nghệ thông tin,K66,2.5,64,Khá tích cực
+SV20211180,Nguyễn Long Minh,Công nghệ thông tin,K64,2.6,88,Khá tích cực
+SV20211181,Phạm Dũng Minh,Kỹ thuật dữ liệu,K65,3.0,99,Khá tích cực
+SV20211182,Đỗ Linh Lan,Công nghệ thông tin,K66,3.2,97,Khá
+SV20211183,Hoàng Hân Quân,Công nghệ thông tin,K64,2.4,35,Cần cải thiện
+SV20211184,Vũ Phúc Long,Công nghệ thông tin,K65,2.3,69,Cần cải thiện
+SV20211185,Đỗ Linh Lan,Công nghệ thông tin,K66,2.1,48,Cần cải thiện
+SV20211186,Trần Khánh Minh,Công nghệ thông tin,K64,2.1,69,Cần cải thiện
+SV20211187,Lê Hà Dũng,Công nghệ thông tin,K65,3.0,102,Khá tích cực
+SV20211188,Lê Hà An,Công nghệ thông tin,K66,2.5,97,Khá tích cực
+SV20211189,Hoàng Chi Minh,Kinh tế số,K64,2.1,102,Cần cải thiện
+SV20211190,Đỗ Hà Bình,Công nghệ thông tin,K65,3.1,106,Khá tích cực
+SV20211191,Đặng Hà Vy,Công nghệ thông tin,K66,2.1,91,Cần cải thiện
+SV20211192,Đỗ Linh Bình,Công nghệ thông tin,K64,2.2,61,Cần cải thiện
+SV20211193,Đỗ Dũng Hân,Công nghệ thông tin,K65,2.3,78,Cần cải thiện
+SV20211194,Bùi Nam Linh,Công nghệ thông tin,K66,3.3,101,Khá
+SV20211195,Đỗ Trang Hân,Công nghệ thông tin,K64,3.0,93,Khá tích cực
+SV20211196,Phạm Hải Nam,Công nghệ thông tin,K65,3.0,73,Khá tích cực
+SV20211197,Trần Vy An,Công nghệ thông tin,K66,2.7,75,Khá tích cực
+SV20211198,Hồ Nam Hân,Kinh tế số,K64,3.0,101,Khá tích cực
+SV20211199,Trần Giang Long,Kinh tế số,K65,3.8,104,Xuất sắc
+SV20211200,Nguyễn Khánh Ngọc,Công nghệ thông tin,K66,2.9,77,Khá tích cực
+SV20211201,Đỗ Hà My,Kỹ thuật dữ liệu,K64,2.9,62,Khá tích cực
+SV20211202,Trần Vy Khánh,Công nghệ thông tin,K65,3.1,88,Khá tích cực
+SV20211203,Bùi Lan Linh,Kỹ thuật dữ liệu,K66,2.8,74,Khá tích cực
+SV20211204,Hoàng Giang Giang,Công nghệ thông tin,K64,2.7,72,Khá tích cực
+SV20211205,Vũ Nam Chi,Công nghệ thông tin,K65,2.9,117,Khá tích cực
+SV20211206,Đặng Trang Nam,Công nghệ thông tin,K66,3.1,70,Khá tích cực
+SV20211207,Trần Hải Nam,Công nghệ thông tin,K64,2.3,44,Cần cải thiện
+SV20211208,Vũ Quân An,Công nghệ thông tin,K65,2.5,84,Khá tích cực
+SV20211209,Lê Nam Phúc,Công nghệ thông tin,K66,2.8,78,Khá tích cực
+SV20211210,Lê Minh Hân,Kỹ thuật dữ liệu,K64,2.1,51,Cần cải thiện
+SV20211211,Hoàng Dũng Trang,Công nghệ thông tin,K65,3.0,123,Khá tích cực
+SV20211212,Phạm An My,Kinh tế số,K66,2.6,75,Khá tích cực
+SV20211213,Trần Vy Hương,Công nghệ thông tin,K64,2.9,89,Khá tích cực
+SV20211214,Hồ Quân Trang,Kinh tế số,K65,3.0,73,Khá tích cực
+SV20211215,Lê Vy Giang,Công nghệ thông tin,K66,3.3,98,Khá
+SV20211216,Nguyễn Khánh Minh,Công nghệ thông tin,K64,2.5,71,Khá tích cực
+SV20211217,Hồ My Ngọc,Kỹ thuật dữ liệu,K65,2.5,68,Khá tích cực
+SV20211218,Vũ Nam Vy,Công nghệ thông tin,K66,2.2,50,Cần cải thiện
+SV20211219,Trần Khánh Khánh,Công nghệ thông tin,K64,2.7,86,Khá tích cực
+SV20211220,Vũ Trang Trang,Công nghệ thông tin,K65,3.6,111,Xuất sắc
+SV20211221,Vũ Hải Trang,Kinh tế số,K66,2.2,66,Cần cải thiện
+SV20211222,Vũ My Hải,Kinh tế số,K64,2.8,78,Khá tích cực
+SV20211223,Lê Hân Trang,Công nghệ thông tin,K65,2.4,86,Cần cải thiện
+SV20211224,Trần Giang Minh,Công nghệ thông tin,K66,3.2,85,Khá
+SV20211225,Nguyễn Linh Trang,Công nghệ thông tin,K64,1.9,63,Cần cải thiện
+SV20211226,Đặng Khánh Hải,Công nghệ thông tin,K65,2.5,67,Khá tích cực
+SV20211227,Trần My Khánh,Công nghệ thông tin,K66,2.3,74,Cần cải thiện
+SV20211228,Hồ Hân Lan,Công nghệ thông tin,K64,3.1,85,Khá tích cực
+SV20211229,Hoàng Vy Bình,Kỹ thuật dữ liệu,K65,2.3,69,Cần cải thiện
+SV20211230,Hồ Bình Quân,Công nghệ thông tin,K66,3.2,112,Khá
+SV20211231,Đặng Hải Giang,Công nghệ thông tin,K64,2.9,86,Khá tích cực
+SV20211232,Bùi Ngọc My,Công nghệ thông tin,K65,2.5,100,Khá tích cực
+SV20211233,Phạm Giang Nam,Kinh tế số,K66,1.9,69,Cần cải thiện
+SV20211234,Phạm Hà Quân,Công nghệ thông tin,K64,3.1,121,Khá tích cực
+SV20211235,Phạm Phúc Ngọc,Công nghệ thông tin,K65,2.1,68,Cần cải thiện
+SV20211236,Hồ Nam Chi,Kỹ thuật dữ liệu,K66,2.2,50,Cần cải thiện
+SV20211237,Vũ Hà An,Công nghệ thông tin,K64,3.8,132,Xuất sắc
+SV20211238,Lê My Hà,Kinh tế số,K65,3.0,84,Khá tích cực
+SV20211239,Đặng Vy Trang,Công nghệ thông tin,K66,2.7,101,Khá tích cực
+SV20211240,Phạm Khánh My,Kỹ thuật dữ liệu,K64,3.3,79,Khá
+SV20211241,Vũ Giang Hải,Kỹ thuật dữ liệu,K65,3.4,94,Khá
+SV20211242,Phạm An Dũng,Công nghệ thông tin,K66,2.7,76,Khá tích cực
+SV20211243,Hoàng Vy Lan,Kinh tế số,K64,2.3,87,Cần cải thiện
+SV20211244,Vũ Quân Hà,Kinh tế số,K65,2.2,75,Cần cải thiện
+SV20211245,Bùi Trang Hương,Kỹ thuật dữ liệu,K66,2.5,108,Khá tích cực
+SV20211246,Vũ Nam Trang,Kỹ thuật dữ liệu,K64,2.5,90,Khá tích cực
+SV20211247,Trần Vy Ngọc,Kinh tế số,K65,2.2,64,Cần cải thiện
+SV20211248,Hoàng Lan Ngọc,Kinh tế số,K66,2.0,71,Cần cải thiện
+SV20211249,Đặng Trang Bình,Công nghệ thông tin,K64,2.9,70,Khá tích cực
+SV20211250,Nguyễn Phúc Minh,Công nghệ thông tin,K65,2.3,60,Cần cải thiện
+SV20211251,Nguyễn Hân Ngọc,Công nghệ thông tin,K66,3.1,81,Khá tích cực
+SV20211252,Nguyễn Linh Ngọc,Công nghệ thông tin,K64,2.2,69,Cần cải thiện
+SV20211253,Hoàng Chi An,Kỹ thuật dữ liệu,K65,2.9,69,Khá tích cực
+SV20211254,Đỗ Ngọc Trang,Công nghệ thông tin,K66,2.9,115,Khá tích cực
+SV20211255,Đỗ Nam Bình,Kỹ thuật dữ liệu,K64,1.9,28,Cần cải thiện
+SV20211256,Hồ Nam Khánh,Kinh tế số,K65,2.9,81,Khá tích cực
+SV20211257,Lê Long An,Công nghệ thông tin,K66,2.9,65,Khá tích cực
+SV20211258,Lê Hải Linh,Công nghệ thông tin,K64,2.9,53,Khá tích cực
+SV20211259,Bùi An Hải,Công nghệ thông tin,K65,3.6,98,Xuất sắc
+SV20211260,Đặng Chi Hương,Công nghệ thông tin,K66,3.4,113,Khá
+SV20211261,Hoàng Trang Dũng,Công nghệ thông tin,K64,2.8,79,Khá tích cực
+SV20211262,Hoàng Long Hân,Kinh tế số,K65,3.3,73,Khá
+SV20211263,Vũ Hân Quân,Công nghệ thông tin,K66,2.5,78,Khá tích cực
+SV20211264,Bùi Lan My,Công nghệ thông tin,K64,1.7,34,Cần cải thiện
+SV20211265,Phạm My Long,Kinh tế số,K65,2.8,64,Khá tích cực
+SV20211266,Vũ Ngọc Trang,Công nghệ thông tin,K66,2.7,67,Khá tích cực
+SV20211267,Phạm Quân Lan,Kinh tế số,K64,2.9,73,Khá tích cực
+SV20211268,Phạm Dũng Vy,Công nghệ thông tin,K65,3.5,132,Khá
+SV20211269,Vũ Hương Long,Kinh tế số,K66,3.8,91,Xuất sắc
+SV20211270,Đặng Minh Long,Công nghệ thông tin,K64,2.1,66,Cần cải thiện
+SV20211271,Hồ Hân Hải,Kinh tế số,K65,3.1,78,Khá tích cực
+SV20211272,Lê Hương Long,Công nghệ thông tin,K66,2.4,55,Cần cải thiện
+SV20211273,Hoàng Vy Khánh,Công nghệ thông tin,K64,3.2,103,Khá
+SV20211274,Nguyễn My Giang,Kỹ thuật dữ liệu,K65,2.2,89,Cần cải thiện
+SV20211275,Trần Chi Linh,Công nghệ thông tin,K66,1.9,66,Cần cải thiện
+SV20211276,Phạm Vy Linh,Công nghệ thông tin,K64,3.0,56,Khá tích cực
+SV20211277,Đặng Chi Hải,Kinh tế số,K65,3.2,104,Khá
+SV20211278,Vũ Minh Hải,Công nghệ thông tin,K66,2.0,57,Cần cải thiện
+SV20211279,Nguyễn Long My,Công nghệ thông tin,K64,2.9,79,Khá tích cực
+SV20211280,Đặng Chi Dũng,Công nghệ thông tin,K65,2.5,50,Khá tích cực
+SV20211281,Hoàng Chi Lan,Công nghệ thông tin,K66,3.6,115,Xuất sắc
+SV20211282,Vũ Bình Dũng,Kỹ thuật dữ liệu,K64,2.5,93,Khá tích cực
+SV20211283,Đỗ Dũng Chi,Công nghệ thông tin,K65,3.8,113,Xuất sắc
+SV20211284,Đỗ Phúc Hà,Công nghệ thông tin,K66,2.7,90,Khá tích cực
+SV20211285,Đỗ Hải Quân,Kinh tế số,K64,3.0,103,Khá tích cực
+SV20211286,Nguyễn Lan Trang,Công nghệ thông tin,K65,2.8,68,Khá tích cực
+SV20211287,Bùi Ngọc Dũng,Kỹ thuật dữ liệu,K66,3.1,102,Khá tích cực
+SV20211288,Đỗ Khánh Vy,Công nghệ thông tin,K64,2.8,56,Khá tích cực
+SV20211289,Hoàng Linh Hương,Kinh tế số,K65,3.0,93,Khá tích cực
+SV20211290,Lê Long Nam,Công nghệ thông tin,K66,3.2,116,Khá
+SV20211291,Đặng Minh Quân,Kinh tế số,K64,2.6,83,Khá tích cực
+SV20211292,Đỗ My Long,Kinh tế số,K65,2.6,68,Khá tích cực
+SV20211293,Lê Phúc Hương,Công nghệ thông tin,K66,2.4,61,Cần cải thiện
+SV20211294,Phạm Hương Ngọc,Kinh tế số,K64,3.0,107,Khá tích cực
+SV20211295,Đỗ Giang Minh,Công nghệ thông tin,K65,2.1,52,Cần cải thiện
+SV20211296,Hồ Ngọc Phúc,Công nghệ thông tin,K66,2.7,58,Khá tích cực
+SV20211297,Đặng Hân Linh,Công nghệ thông tin,K64,3.4,105,Khá
+SV20211298,Lê Hà Dũng,Kỹ thuật dữ liệu,K65,2.7,58,Khá tích cực
+SV20211299,Hồ Vy Hải,Kinh tế số,K66,2.5,51,Khá tích cực
+SV20211300,Hoàng Hải Chi,Kỹ thuật dữ liệu,K64,2.7,77,Khá tích cực
+SV20211301,Vũ Minh Nam,Công nghệ thông tin,K65,2.3,89,Cần cải thiện
+SV20211302,Hoàng An Long,Công nghệ thông tin,K66,2.7,34,Khá tích cực
+SV20211303,Hồ My Phúc,Công nghệ thông tin,K64,2.8,58,Khá tích cực
+SV20211304,Vũ Khánh Hương,Công nghệ thông tin,K65,2.5,62,Khá tích cực
+SV20211305,Hồ Trang Giang,Công nghệ thông tin,K66,2.1,35,Cần cải thiện
+SV20211306,Hồ Bình Hà,Công nghệ thông tin,K64,2.5,92,Khá tích cực
+SV20211307,Hoàng Bình Chi,Công nghệ thông tin,K65,2.7,62,Khá tích cực
+SV20211308,Trần Quân Lan,Kinh tế số,K66,2.6,85,Khá tích cực
+SV20211309,Bùi Minh Khánh,Công nghệ thông tin,K64,2.2,57,Cần cải thiện
+SV20211310,Trần Khánh Long,Kỹ thuật dữ liệu,K65,3.0,85,Khá tích cực
+SV20211311,Hoàng Lan Trang,Công nghệ thông tin,K66,2.6,64,Khá tích cực
+SV20211312,Hoàng Nam Hải,Kinh tế số,K64,2.9,91,Khá tích cực
+SV20211313,Phạm Lan Bình,Công nghệ thông tin,K65,2.4,79,Cần cải thiện
+SV20211314,Trần Minh Long,Kỹ thuật dữ liệu,K66,2.7,66,Khá tích cực
+SV20211315,Đặng Chi Nam,Công nghệ thông tin,K64,2.4,87,Cần cải thiện
+SV20211316,Bùi Chi Nam,Công nghệ thông tin,K65,2.9,75,Khá tích cực
+SV20211317,Lê Chi Trang,Công nghệ thông tin,K66,3.0,112,Khá tích cực
+SV20211318,Hoàng Quân Trang,Công nghệ thông tin,K64,2.7,84,Khá tích cực
+SV20211319,Trần Hương Chi,Công nghệ thông tin,K65,2.5,71,Khá tích cực
+SV20211320,Nguyễn Linh Hương,Công nghệ thông tin,K66,2.1,84,Cần cải thiện
+SV20211321,Đỗ Hà Hải,Kinh tế số,K64,2.6,67,Khá tích cực
+SV20211322,Hồ An Dũng,Công nghệ thông tin,K65,1.7,79,Cần cải thiện
+SV20211323,Hoàng Long Khánh,Kỹ thuật dữ liệu,K66,2.4,48,Cần cải thiện
+SV20211324,Nguyễn Quân Vy,Công nghệ thông tin,K64,3.2,89,Khá
+SV20211325,Bùi Lan Hân,Kinh tế số,K65,2.3,69,Cần cải thiện
+SV20211326,Hồ Giang Khánh,Kỹ thuật dữ liệu,K66,2.3,48,Cần cải thiện
+SV20211327,Bùi Nam Bình,Kinh tế số,K64,2.9,38,Khá tích cực
+SV20211328,Nguyễn Lan Minh,Kinh tế số,K65,2.4,50,Cần cải thiện
+SV20211329,Vũ Lan Nam,Công nghệ thông tin,K66,3.7,118,Xuất sắc
+SV20211330,Lê Ngọc Bình,Công nghệ thông tin,K64,3.0,101,Khá tích cực
+SV20211331,Đặng Long Linh,Công nghệ thông tin,K65,3.1,82,Khá tích cực
+SV20211332,Trần Lan An,Công nghệ thông tin,K66,2.2,63,Cần cải thiện
+SV20211333,Phạm Phúc Linh,Kỹ thuật dữ liệu,K64,3.4,93,Khá
+SV20211334,Hồ Lan Hân,Kỹ thuật dữ liệu,K65,3.2,109,Khá
+SV20211335,Trần Hương Hân,Công nghệ thông tin,K66,3.3,86,Khá
+SV20211336,Phạm Hải Long,Kỹ thuật dữ liệu,K64,2.3,66,Cần cải thiện
+SV20211337,Hồ Phúc Vy,Kinh tế số,K65,2.5,48,Khá tích cực
+SV20211338,Trần Lan My,Công nghệ thông tin,K66,2.5,66,Khá tích cực
+SV20211339,Đặng Minh Chi,Kinh tế số,K64,2.6,62,Khá tích cực
+SV20211340,Bùi Hà Vy,Kinh tế số,K65,2.2,85,Cần cải thiện
+SV20211341,Vũ Chi Trang,Kinh tế số,K66,3.0,85,Khá tích cực
+SV20211342,Phạm Nam An,Công nghệ thông tin,K64,2.7,80,Khá tích cực
+SV20211343,Nguyễn Phúc Hương,Kỹ thuật dữ liệu,K65,3.3,100,Khá
+SV20211344,Hoàng Vy Hương,Công nghệ thông tin,K66,3.6,113,Xuất sắc
+SV20211345,Trần My Vy,Công nghệ thông tin,K64,3.4,92,Khá
+SV20211346,Lê My Hương,Kinh tế số,K65,2.9,110,Khá tích cực
+SV20211347,Trần Long Giang,Công nghệ thông tin,K66,3.3,129,Khá
+SV20211348,Vũ Phúc An,Công nghệ thông tin,K64,1.5,58,Cần cải thiện
+SV20211349,Đỗ Nam Hải,Kinh tế số,K65,2.5,96,Khá tích cực
+SV20211350,Hồ Nam Giang,Công nghệ thông tin,K66,2.3,82,Cần cải thiện
+SV20211351,Trần An Hà,Công nghệ thông tin,K64,2.5,76,Khá tích cực
+SV20211352,Lê Minh Phúc,Công nghệ thông tin,K65,2.5,93,Khá tích cực
+SV20211353,Hồ Hải Bình,Kinh tế số,K66,1.8,66,Cần cải thiện
+SV20211354,Hoàng Ngọc Quân,Công nghệ thông tin,K64,2.0,45,Cần cải thiện
+SV20211355,Đỗ Linh Hà,Công nghệ thông tin,K65,3.6,103,Xuất sắc
+SV20211356,Trần Vy Dũng,Công nghệ thông tin,K66,2.5,103,Khá tích cực
+SV20211357,Hồ Bình Hân,Công nghệ thông tin,K64,2.7,89,Khá tích cực
+SV20211358,Bùi Lan Phúc,Kinh tế số,K65,3.1,102,Khá tích cực
+SV20211359,Vũ Lan Ngọc,Kỹ thuật dữ liệu,K66,3.1,93,Khá tích cực
+SV20211360,Nguyễn Minh Bình,Kinh tế số,K64,1.8,46,Cần cải thiện
+SV20211361,Trần Chi Quân,Công nghệ thông tin,K65,3.2,114,Khá
+SV20211362,Lê Minh Hải,Công nghệ thông tin,K66,2.3,90,Cần cải thiện
+SV20211363,Trần My Minh,Công nghệ thông tin,K64,2.0,75,Cần cải thiện
+SV20211364,Bùi Hà An,Kinh tế số,K65,2.9,76,Khá tích cực
+SV20211365,Hồ Minh Linh,Công nghệ thông tin,K66,3.4,115,Khá
+SV20211366,Hồ Minh Hải,Công nghệ thông tin,K64,3.1,105,Khá tích cực
+SV20211367,Lê Long Phúc,Công nghệ thông tin,K65,3.3,127,Khá
+SV20211368,Nguyễn Lan Bình,Công nghệ thông tin,K66,2.0,34,Cần cải thiện
+SV20211369,Lê Minh Chi,Công nghệ thông tin,K64,2.9,99,Khá tích cực
+SV20211370,Đặng Hà Long,Công nghệ thông tin,K65,2.3,86,Cần cải thiện
+SV20211371,Vũ Trang Vy,Công nghệ thông tin,K66,2.2,63,Cần cải thiện
+SV20211372,Trần Hân Hải,Kinh tế số,K64,3.1,108,Khá tích cực
+SV20211373,Nguyễn Dũng Trang,Công nghệ thông tin,K65,3.0,96,Khá tích cực
+SV20211374,Hoàng Hân Khánh,Công nghệ thông tin,K66,2.7,74,Khá tích cực
+SV20211375,Phạm Hân Bình,Kỹ thuật dữ liệu,K64,3.0,84,Khá tích cực
+SV20211376,Lê Trang Bình,Kỹ thuật dữ liệu,K65,2.5,82,Khá tích cực
+SV20211377,Nguyễn Hân Bình,Công nghệ thông tin,K66,2.5,88,Khá tích cực
+SV20211378,Phạm Giang Phúc,Công nghệ thông tin,K64,2.4,63,Cần cải thiện
+SV20211379,Vũ Hương Giang,Kinh tế số,K65,2.5,60,Khá tích cực
+SV20211380,Nguyễn Dũng Nam,Công nghệ thông tin,K66,2.5,90,Khá tích cực
+SV20211381,Lê Giang Chi,Công nghệ thông tin,K64,3.4,99,Khá
+SV20211382,Hoàng Trang Hương,Công nghệ thông tin,K65,3.1,95,Khá tích cực
+SV20211383,Hồ Linh Giang,Công nghệ thông tin,K66,2.7,52,Khá tích cực
+SV20211384,Đỗ Linh Hải,Kỹ thuật dữ liệu,K64,3.2,114,Khá
+SV20211385,Vũ Lan Lan,Công nghệ thông tin,K65,3.3,87,Khá
+SV20211386,Đặng Trang Long,Kinh tế số,K66,3.0,90,Khá tích cực
+SV20211387,Đặng Hân Nam,Công nghệ thông tin,K64,2.5,69,Khá tích cực
+SV20211388,Trần Hân Hương,Kỹ thuật dữ liệu,K65,3.0,86,Khá tích cực
+SV20211389,Trần My Minh,Công nghệ thông tin,K66,1.9,49,Cần cải thiện
+SV20211390,Vũ Minh My,Công nghệ thông tin,K64,2.8,79,Khá tích cực
+SV20211391,Vũ Lan Hà,Kinh tế số,K65,3.6,95,Xuất sắc
+SV20211392,Đặng Dũng Giang,Kinh tế số,K66,3.1,132,Khá tích cực
+SV20211393,Hoàng Dũng Chi,Công nghệ thông tin,K64,2.9,69,Khá tích cực
+SV20211394,Hoàng Quân Minh,Công nghệ thông tin,K65,2.7,57,Khá tích cực
+SV20211395,Trần Vy Quân,Công nghệ thông tin,K66,3.3,108,Khá
+SV20211396,Phạm Hương Chi,Kỹ thuật dữ liệu,K64,2.9,107,Khá tích cực
+SV20211397,Lê Giang Trang,Công nghệ thông tin,K65,2.4,73,Cần cải thiện
+SV20211398,Đỗ Lan Vy,Kinh tế số,K66,2.4,84,Cần cải thiện
+SV20211399,Trần Khánh An,Kỹ thuật dữ liệu,K64,2.1,75,Cần cải thiện
+SV20211400,Đặng Ngọc Chi,Công nghệ thông tin,K65,3.0,90,Khá tích cực
+SV20211401,Vũ Vy Phúc,Kinh tế số,K66,1.9,81,Cần cải thiện
+SV20211402,Lê My Minh,Công nghệ thông tin,K64,2.9,113,Khá tích cực
+SV20211403,Phạm Giang Vy,Kỹ thuật dữ liệu,K65,3.2,102,Khá
+SV20211404,Đỗ Minh Dũng,Kỹ thuật dữ liệu,K66,3.3,106,Khá
+SV20211405,Đỗ Long Linh,Công nghệ thông tin,K64,2.9,101,Khá tích cực
+SV20211406,Hoàng Lan Ngọc,Công nghệ thông tin,K65,2.5,62,Khá tích cực
+SV20211407,Vũ Hà Trang,Kỹ thuật dữ liệu,K66,2.7,78,Khá tích cực
+SV20211408,Nguyễn Trang Vy,Kinh tế số,K64,2.7,132,Khá tích cực
+SV20211409,Lê Nam Hà,Kinh tế số,K65,4.0,92,Xuất sắc
+SV20211410,Trần Lan Nam,Công nghệ thông tin,K66,3.0,77,Khá tích cực
+SV20211411,Đặng Ngọc Quân,Công nghệ thông tin,K64,2.2,42,Cần cải thiện
+SV20211412,Hoàng Phúc Lan,Công nghệ thông tin,K65,1.8,52,Cần cải thiện
+SV20211413,Hồ Hải Linh,Công nghệ thông tin,K66,2.3,42,Cần cải thiện
+SV20211414,Trần Lan Minh,Công nghệ thông tin,K64,2.9,67,Khá tích cực
+SV20211415,Lê Linh Bình,Kỹ thuật dữ liệu,K65,1.7,48,Cần cải thiện
+SV20211416,Trần Giang Long,Công nghệ thông tin,K66,2.4,65,Cần cải thiện
+SV20211417,Phạm Nam Ngọc,Kỹ thuật dữ liệu,K64,2.7,62,Khá tích cực
+SV20211418,Đỗ Khánh Hà,Công nghệ thông tin,K65,3.4,74,Khá
+SV20211419,Trần Phúc Linh,Kinh tế số,K66,3.7,132,Xuất sắc
+SV20211420,Hồ Quân Nam,Công nghệ thông tin,K64,3.1,87,Khá tích cực
+SV20211421,Đặng Linh Phúc,Kỹ thuật dữ liệu,K65,2.6,78,Khá tích cực
+SV20211422,Lê Khánh Trang,Kỹ thuật dữ liệu,K66,2.9,79,Khá tích cực
+SV20211423,Vũ Hà An,Công nghệ thông tin,K64,2.1,66,Cần cải thiện
+SV20211424,Đỗ Hương Nam,Công nghệ thông tin,K65,2.8,59,Khá tích cực
+SV20211425,Trần Hải An,Kinh tế số,K66,2.9,104,Khá tích cực
+SV20211426,Lê An Hương,Kinh tế số,K64,2.6,74,Khá tích cực
+SV20211427,Trần Hân Long,Kỹ thuật dữ liệu,K65,3.2,89,Khá
+SV20211428,Trần Minh Dũng,Công nghệ thông tin,K66,2.3,51,Cần cải thiện
+SV20211429,Nguyễn Linh My,Kinh tế số,K64,2.7,85,Khá tích cực
+SV20211430,Phạm An Hà,Công nghệ thông tin,K65,3.5,125,Khá
+SV20211431,Hồ Minh Minh,Công nghệ thông tin,K66,3.2,94,Khá
+SV20211432,Vũ Quân Long,Công nghệ thông tin,K64,2.2,64,Cần cải thiện
+SV20211433,Phạm Hải Khánh,Kinh tế số,K65,3.1,80,Khá tích cực
+SV20211434,Vũ Vy Chi,Công nghệ thông tin,K66,3.0,89,Khá tích cực
+SV20211435,Lê Linh Lan,Kỹ thuật dữ liệu,K64,2.9,60,Khá tích cực
+SV20211436,Bùi Lan Giang,Kỹ thuật dữ liệu,K65,2.2,69,Cần cải thiện
+SV20211437,Đặng Hân Long,Công nghệ thông tin,K66,3.6,119,Xuất sắc
+SV20211438,Đặng Phúc Khánh,Công nghệ thông tin,K64,2.5,71,Khá tích cực
+SV20211439,Hoàng Dũng Phúc,Kỹ thuật dữ liệu,K65,1.9,44,Cần cải thiện
+SV20211440,Hồ Linh Vy,Kỹ thuật dữ liệu,K66,2.6,53,Khá tích cực
+SV20211441,Lê Minh Phúc,Công nghệ thông tin,K64,2.6,54,Khá tích cực
+SV20211442,Đặng Hải Quân,Công nghệ thông tin,K65,2.2,55,Cần cải thiện
+SV20211443,Nguyễn Hương Quân,Công nghệ thông tin,K66,2.0,52,Cần cải thiện
+SV20211444,Đặng Hân Hà,Kinh tế số,K64,2.5,70,Khá tích cực
+SV20211445,Hồ Bình An,Kỹ thuật dữ liệu,K65,3.4,93,Khá
+SV20211446,Trần My Hân,Công nghệ thông tin,K66,2.5,83,Khá tích cực
+SV20211447,Nguyễn Hà Vy,Công nghệ thông tin,K64,2.5,93,Khá tích cực
+SV20211448,Phạm Dũng Dũng,Công nghệ thông tin,K65,2.5,53,Khá tích cực
+SV20211449,Hồ Hương Lan,Công nghệ thông tin,K66,2.2,68,Cần cải thiện
+SV20211450,Đỗ Lan Ngọc,Kinh tế số,K64,2.9,104,Khá tích cực
+SV20211451,Phạm Lan Hân,Công nghệ thông tin,K65,3.0,82,Khá tích cực
+SV20211452,Trần Nam Linh,Công nghệ thông tin,K66,3.0,110,Khá tích cực
+SV20211453,Lê Dũng Hải,Công nghệ thông tin,K64,2.8,67,Khá tích cực
+SV20211454,Hồ Nam My,Công nghệ thông tin,K65,3.6,115,Xuất sắc
+SV20211455,Đặng Ngọc Bình,Công nghệ thông tin,K66,2.7,80,Khá tích cực
+SV20211456,Đặng Giang Hải,Kinh tế số,K64,2.9,100,Khá tích cực
+SV20211457,Đặng Linh Minh,Công nghệ thông tin,K65,2.1,50,Cần cải thiện
+SV20211458,Nguyễn Hà Lan,Kinh tế số,K66,3.3,98,Khá
+SV20211459,Vũ Hà Phúc,Công nghệ thông tin,K64,4.0,127,Xuất sắc
+SV20211460,Trần An Giang,Công nghệ thông tin,K65,3.0,126,Khá tích cực
+SV20211461,Hồ Giang Minh,Công nghệ thông tin,K66,3.0,92,Khá tích cực
+SV20211462,Đặng Dũng Hà,Công nghệ thông tin,K64,2.5,58,Khá tích cực
+SV20211463,Bùi Quân Vy,Công nghệ thông tin,K65,3.0,80,Khá tích cực
+SV20211464,Hồ Nam Hải,Công nghệ thông tin,K66,2.3,45,Cần cải thiện
+SV20211465,Hoàng Hà Chi,Kỹ thuật dữ liệu,K64,2.0,61,Cần cải thiện
+SV20211466,Trần Hân Vy,Công nghệ thông tin,K65,2.1,70,Cần cải thiện
+SV20211467,Lê Trang Giang,Kinh tế số,K66,3.5,84,Khá
+SV20211468,Phạm Linh Khánh,Công nghệ thông tin,K64,2.2,62,Cần cải thiện
+SV20211469,Nguyễn My Nam,Kinh tế số,K65,2.3,62,Cần cải thiện
+SV20211470,Hồ Ngọc Khánh,Công nghệ thông tin,K66,2.5,77,Khá tích cực
+SV20211471,Hoàng Hân Hương,Công nghệ thông tin,K64,2.3,54,Cần cải thiện
+SV20211472,Phạm Ngọc Dũng,Công nghệ thông tin,K65,1.8,36,Cần cải thiện
+SV20211473,Đỗ Phúc Nam,Công nghệ thông tin,K66,3.0,86,Khá tích cực
+SV20211474,Hồ Hải Dũng,Công nghệ thông tin,K64,2.9,73,Khá tích cực
+SV20211475,Nguyễn Nam My,Công nghệ thông tin,K65,2.2,104,Cần cải thiện
+SV20211476,Trần Trang An,Công nghệ thông tin,K66,2.4,93,Cần cải thiện
+SV20211477,Hoàng Trang Bình,Kinh tế số,K64,2.4,80,Cần cải thiện
+SV20211478,Hoàng Minh Khánh,Công nghệ thông tin,K65,2.4,66,Cần cải thiện
+SV20211479,Hoàng Dũng Giang,Công nghệ thông tin,K66,2.5,80,Khá tích cực
+SV20211480,Trần Nam Hương,Kỹ thuật dữ liệu,K64,2.1,67,Cần cải thiện
+SV20211481,Đặng Trang Long,Kinh tế số,K65,1.8,46,Cần cải thiện
+SV20211482,Phạm Hương Hương,Kinh tế số,K66,2.5,62,Khá tích cực
+SV20211483,Nguyễn Giang Linh,Kỹ thuật dữ liệu,K64,2.8,59,Khá tích cực
+SV20211484,Hồ Minh Nam,Kinh tế số,K65,2.6,52,Khá tích cực
+SV20211485,Hồ Minh Khánh,Công nghệ thông tin,K66,2.9,91,Khá tích cực
+SV20211486,Lê Chi Chi,Công nghệ thông tin,K64,3.5,82,Khá
+SV20211487,Đỗ Linh Vy,Kỹ thuật dữ liệu,K65,2.7,99,Khá tích cực
+SV20211488,Hoàng Khánh Hải,Công nghệ thông tin,K66,2.8,72,Khá tích cực
+SV20211489,Hồ Chi Giang,Công nghệ thông tin,K64,2.3,98,Cần cải thiện
+SV20211490,Nguyễn Giang Lan,Kinh tế số,K65,2.2,64,Cần cải thiện
+SV20211491,Phạm Minh Chi,Kinh tế số,K66,2.1,36,Cần cải thiện
+SV20211492,Phạm Linh Khánh,Công nghệ thông tin,K64,2.8,80,Khá tích cực
+SV20211493,Lê Bình Trang,Kỹ thuật dữ liệu,K65,2.5,65,Khá tích cực
+SV20211494,Đỗ An My,Công nghệ thông tin,K66,3.2,73,Khá
+SV20211495,Hoàng Hương Nam,Kinh tế số,K64,2.8,50,Khá tích cực
+SV20211496,Phạm Hân Hương,Kinh tế số,K65,2.7,57,Khá tích cực
+SV20211497,Đặng Hải Chi,Công nghệ thông tin,K66,2.5,64,Khá tích cực
+SV20211498,Phạm Long Chi,Công nghệ thông tin,K64,2.4,79,Cần cải thiện
+SV20211499,Lê Hương Bình,Công nghệ thông tin,K65,1.7,29,Cần cải thiện
+SV20211500,Nguyễn Hải Hân,Công nghệ thông tin,K66,2.7,60,Khá tích cực

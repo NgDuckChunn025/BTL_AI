@@ -1,0 +1,46 @@
+{
+  "pipeline_version": "3.0",
+  "trained_at": "2026-09-21T11:29:40.262374+00:00",
+  "selected_model": "Logistic Regression",
+  "selection": "validation recall, then validation F1; threshold=0.5",
+  "model_files": {
+    "Dummy Baseline": "dummy_baseline.pkl",
+    "Logistic Regression": "logistic_regression.pkl",
+    "Random Forest": "random_forest.pkl",
+    "Gradient Boosting": "gradient_boosting.pkl"
+  },
+  "features": [
+    "GPA_TichLuy",
+    "TinChiTichLuy",
+    "DiemQuaTrinh",
+    "ChuyenCan",
+    "TruyCapLMS",
+    "TyLeNopDungHan",
+    "DiemRenLuyen",
+    "GioTuHoc",
+    "TinChi",
+    "Khoa",
+    "HocPhan",
+    "NhomHoc"
+  ],
+  "dataset_rows": 6000,
+  "students": 1500,
+  "risk_rate": 0.12066666666666667,
+  "data_sha256": "d1d9fb45a297e65d29c2420d5a2fc161dc54e3442724500b228830ddb6318ef3",
+  "splits": {
+    "train": {
+      "rows": 3600,
+      "students": 900
+    },
+    "validation": {
+      "rows": 1200,
+      "students": 300
+    },
+    "test": {
+      "rows": 1200,
+      "students": 300
+    }
+  },
+  "student_overlap": false,
+  "calibrated": false
+}

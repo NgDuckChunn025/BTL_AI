@@ -1,0 +1,80 @@
+{
+  "pipeline_version": "4.0",
+  "run_id": "20260921T173737206035Z",
+  "trained_at": "2026-09-21T17:37:37.294090+00:00",
+  "selected_model": "SVM",
+  "threshold": 0.1,
+  "selection": "highest train grouped-CV AP; validation threshold maximizes F2",
+  "cv_folds": 5,
+  "seed": 42,
+  "sklearn_version": "1.9.0",
+  "cv_warning": "CV after tuning is optimistic; independent test is the final estimate.",
+  "threshold_policy": "Grid .05..95 step .01; maximize F2, then precision, then threshold; validation only.",
+  "model_files": {
+    "Dummy Baseline": "dummy_baseline.pkl",
+    "Logistic Regression": "logistic_regression.pkl",
+    "Decision Tree": "decision_tree.pkl",
+    "Random Forest": "random_forest.pkl",
+    "KNN": "knn.pkl",
+    "SVM": "svm.pkl"
+  },
+  "features": [
+    "GPA_TichLuy",
+    "TinChiTichLuy",
+    "DiemQuaTrinh",
+    "ChuyenCan",
+    "TruyCapLMS",
+    "TyLeNopDungHan",
+    "DiemRenLuyen",
+    "GioTuHoc",
+    "TinChi",
+    "Khoa",
+    "HocPhan",
+    "NhomHoc"
+  ],
+  "dataset_rows": 6000,
+  "students": 1500,
+  "risk_rate": 0.12066666666666667,
+  "synthetic": true,
+  "positive_class": "DiemCuoiKy < 5 (synthetic)",
+  "data_sha256": "d1d9fb45a297e65d29c2420d5a2fc161dc54e3442724500b228830ddb6318ef3",
+  "missing_values": {
+    "GPA_TichLuy": 0,
+    "TinChiTichLuy": 0,
+    "DiemQuaTrinh": 0,
+    "ChuyenCan": 0,
+    "TruyCapLMS": 0,
+    "TyLeNopDungHan": 0,
+    "DiemRenLuyen": 0,
+    "GioTuHoc": 0,
+    "TinChi": 0,
+    "Khoa": 0,
+    "HocPhan": 0,
+    "NhomHoc": 0
+  },
+  "splits": {
+    "train": {
+      "rows": 3600,
+      "students": 900,
+      "risk_rate": 0.11944444444444445
+    },
+    "validation": {
+      "rows": 1200,
+      "students": 300,
+      "risk_rate": 0.12083333333333333
+    },
+    "test": {
+      "rows": 1200,
+      "students": 300,
+      "risk_rate": 0.12416666666666666
+    }
+  },
+  "student_overlap": false,
+  "calibrated": false,
+  "limits": [
+    "Synthetic data: no real-world accuracy claim.",
+    "No timestamps: not temporal early-warning validation.",
+    "SVC internal probability fitting is not group-aware; no external calibration claimed.",
+    "What-if measures sensitivity, not causality."
+  ]
+}
